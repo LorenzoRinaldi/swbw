@@ -1,9 +1,10 @@
 # Electricity carbon footprint
 
 This repository accompanies the manuscript currently under review at the
-Journal of Industrial Ecology. It collects the workflow used to calculate and
-compare electricity carbon footprint indicators across multiple input-output
-databases with a single, reproducible pipeline.
+Journal of Industrial Ecology, "Carbon footprint of electricity: a systematic
+methodological and quantitative review". It collects the workflow used to
+calculate and compare electricity carbon footprint indicators across multiple
+input-output databases with a single, reproducible pipeline.
 
 The implementation is a streamlined rework of the exploratory `review/`
 scripts. A single notebook orchestrates the runs, configuration is kept in
