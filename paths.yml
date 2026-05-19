@@ -1,0 +1,27 @@
+# ----------------------------------------------------------------------
+# Shared data root: change `user` to your initials to point to your local
+# copy of the IO database collection. Add a new entry under `shared` for a
+# new collaborator.
+# ----------------------------------------------------------------------
+user: LR
+
+shared:
+  LR: '/Users/lorenzorinaldi/Library/CloudStorage/OneDrive-SharedLibraries-PolitecnicodiMilano/DENG-SESAM - Documenti/c-Research/a-Datasets/_Input Output Databases'
+  CC: ''
+
+# Paths are relative to shared[user]. {year} / {version} / {system} are
+# substituted at runtime where applicable.
+databases:
+  EXIOBASE: 'EXIOBASE/{version}/{table}/{system}/{year}/{archive}'
+  EXIOBASE_SUT: 'EXIOBASE/{version}/{table}/{year}/{archive}'
+  EORA26: 'EORA/EORA1/Eora26_{year}_bp'
+  # EMERGING v2.2 main bundle for the requested year.
+  EMERGING: 'EMERGING/2.2/EMERGING_V2_{year}_m.mat'
+  # GLORIA root containing the GLORIA_MRIO_Loop060_part_* subfolders; the
+  # parser picks the year via year=.
+  GLORIA: 'GLORIA'
+
+export_dir: 'export'
+  
+
+

@@ -1,0 +1,1079 @@
+Database,Version,Table,Year,System,Flow,Satellite account,Unit,Region,Sector,Item,Value
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,AT,Sector,Electricity by Geothermal,0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,AT,Sector,Electricity by biomass and waste,2344049.461569052
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,AT,Sector,Electricity by coal,3367503.9212655653
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,AT,Sector,Electricity by gas,3409526.532217492
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,AT,Sector,Electricity by hydro,1221.9829306852744
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,AT,Sector,Electricity by nuclear,0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,AT,Sector,Electricity by petroleum and other oil derivatives,993863.1879551504
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,AT,Sector,Electricity by solar photovoltaic,2207.0526649923795
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,AT,Sector,Electricity by solar thermal,0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,AT,Sector,"Electricity by tide, wave, ocean",0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,AT,Sector,Electricity by wind,510.34064160254997
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,AU,Sector,Electricity by Geothermal,90466.21573228388
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,AU,Sector,Electricity by biomass and waste,73296.7390816643
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,AU,Sector,Electricity by coal,8747665.795703555
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,AU,Sector,Electricity by gas,3200433.522067669
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,AU,Sector,Electricity by hydro,4608.1631082647145
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,AU,Sector,Electricity by nuclear,0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,AU,Sector,Electricity by petroleum and other oil derivatives,1189299.5527604853
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,AU,Sector,Electricity by solar photovoltaic,17842.940735065647
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,AU,Sector,Electricity by solar thermal,154625.2004908173
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,AU,Sector,"Electricity by tide, wave, ocean",0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,AU,Sector,Electricity by wind,4982.910752879599
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,BE,Sector,Electricity by Geothermal,0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,BE,Sector,Electricity by biomass and waste,4265513.809748103
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,BE,Sector,Electricity by coal,45708.66990973299
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,BE,Sector,Electricity by gas,6607065.741224295
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,BE,Sector,Electricity by hydro,6309.852843353414
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,BE,Sector,Electricity by nuclear,1026.4965498148688
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,BE,Sector,Electricity by petroleum and other oil derivatives,2436371.686403935
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,BE,Sector,Electricity by solar photovoltaic,4267.889985703864
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,BE,Sector,Electricity by solar thermal,0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,BE,Sector,"Electricity by tide, wave, ocean",0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,BE,Sector,Electricity by wind,5424.228609871869
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,BG,Sector,Electricity by Geothermal,0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,BG,Sector,Electricity by biomass and waste,26848.35438055631
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,BG,Sector,Electricity by coal,19152172.828360356
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,BG,Sector,Electricity by gas,1895434.1047009798
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,BG,Sector,Electricity by hydro,10045.181762117683
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,BG,Sector,Electricity by nuclear,5274.262087128532
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,BG,Sector,Electricity by petroleum and other oil derivatives,3441358.3108078125
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,BG,Sector,Electricity by solar photovoltaic,21029.972444850082
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,BG,Sector,Electricity by solar thermal,0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,BG,Sector,"Electricity by tide, wave, ocean",0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,BG,Sector,Electricity by wind,45911.24675156691
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,BR,Sector,Electricity by Geothermal,0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,BR,Sector,Electricity by biomass and waste,13051.667294975301
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,BR,Sector,Electricity by coal,10657242.715761006
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,BR,Sector,Electricity by gas,5819424.877351116
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,BR,Sector,Electricity by hydro,1364.6262898569528
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,BR,Sector,Electricity by nuclear,261.9009507928004
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,BR,Sector,Electricity by petroleum and other oil derivatives,4703848.862628607
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,BR,Sector,Electricity by solar photovoltaic,53.09015562539736
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,BR,Sector,Electricity by solar thermal,0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,BR,Sector,"Electricity by tide, wave, ocean",0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,BR,Sector,Electricity by wind,2.089088624893608
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,CA,Sector,Electricity by Geothermal,0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,CA,Sector,Electricity by biomass and waste,807299.0691721897
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,CA,Sector,Electricity by coal,20792343.253098153
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,CA,Sector,Electricity by gas,7728600.76505358
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,CA,Sector,Electricity by hydro,34885.98039009211
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,CA,Sector,Electricity by nuclear,31831.61297717365
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,CA,Sector,Electricity by petroleum and other oil derivatives,7671986.241580587
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,CA,Sector,Electricity by solar photovoltaic,56466.15362135809
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,CA,Sector,Electricity by solar thermal,0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,CA,Sector,"Electricity by tide, wave, ocean",75913.6875542289
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,CA,Sector,Electricity by wind,24212.184021467838
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,CH,Sector,Electricity by Geothermal,0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,CH,Sector,Electricity by biomass and waste,22400.156452176976
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,CH,Sector,Electricity by coal,0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,CH,Sector,Electricity by gas,365643.54365753353
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,CH,Sector,Electricity by hydro,13610.719571773736
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,CH,Sector,Electricity by nuclear,4685.705403941204
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,CH,Sector,Electricity by petroleum and other oil derivatives,1119154.5247234101
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,CH,Sector,Electricity by solar photovoltaic,4927.784700135879
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,CH,Sector,Electricity by solar thermal,0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,CH,Sector,"Electricity by tide, wave, ocean",0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,CH,Sector,Electricity by wind,15157.388424087625
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,CN,Sector,Electricity by Geothermal,74620.23001087594
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,CN,Sector,Electricity by biomass and waste,124853.66968907675
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,CN,Sector,Electricity by coal,15284782.585250698
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,CN,Sector,Electricity by gas,5887778.35535961
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,CN,Sector,Electricity by hydro,18314.452927105827
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,CN,Sector,Electricity by nuclear,143513.40176414343
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,CN,Sector,Electricity by petroleum and other oil derivatives,2577080.012440789
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,CN,Sector,Electricity by solar photovoltaic,9619.687749669187
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,CN,Sector,Electricity by solar thermal,648.2026989616711
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,CN,Sector,"Electricity by tide, wave, ocean",1208.45435951301
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,CN,Sector,Electricity by wind,92779.90277942561
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,CY,Sector,Electricity by Geothermal,0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,CY,Sector,Electricity by biomass and waste,2895.5346988218075
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,CY,Sector,Electricity by coal,0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,CY,Sector,Electricity by gas,0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,CY,Sector,Electricity by hydro,0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,CY,Sector,Electricity by nuclear,0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,CY,Sector,Electricity by petroleum and other oil derivatives,8028236.8018135745
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,CY,Sector,Electricity by solar photovoltaic,225.3233489324719
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,CY,Sector,Electricity by solar thermal,0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,CY,Sector,"Electricity by tide, wave, ocean",0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,CY,Sector,Electricity by wind,1687.690945439116
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,CZ,Sector,Electricity by Geothermal,0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,CZ,Sector,Electricity by biomass and waste,87306.89475568058
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,CZ,Sector,Electricity by coal,12437129.41656268
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,CZ,Sector,Electricity by gas,4931254.593119629
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,CZ,Sector,Electricity by hydro,22664.369693036955
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,CZ,Sector,Electricity by nuclear,4617.5093454007765
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,CZ,Sector,Electricity by petroleum and other oil derivatives,3629280.418420612
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,CZ,Sector,Electricity by solar photovoltaic,3404.4590276184144
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,CZ,Sector,Electricity by solar thermal,0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,CZ,Sector,"Electricity by tide, wave, ocean",0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,CZ,Sector,Electricity by wind,6785.210017645989
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,DE,Sector,Electricity by Geothermal,414.9038305396503
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,DE,Sector,Electricity by biomass and waste,2097201.6376234093
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,DE,Sector,Electricity by coal,11285590.206720892
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,DE,Sector,Electricity by gas,2517366.613866126
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,DE,Sector,Electricity by hydro,38930.874146356866
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,DE,Sector,Electricity by nuclear,8182.998142304031
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,DE,Sector,Electricity by petroleum and other oil derivatives,2393963.2420911137
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,DE,Sector,Electricity by solar photovoltaic,14926.178564807464
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,DE,Sector,Electricity by solar thermal,0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,DE,Sector,"Electricity by tide, wave, ocean",0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,DE,Sector,Electricity by wind,8991.211132752616
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,DK,Sector,Electricity by Geothermal,0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,DK,Sector,Electricity by biomass and waste,69950.54046923677
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,DK,Sector,Electricity by coal,82107.01365662432
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,DK,Sector,Electricity by gas,1240902.1831531776
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,DK,Sector,Electricity by hydro,675241.751911648
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,DK,Sector,Electricity by nuclear,0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,DK,Sector,Electricity by petroleum and other oil derivatives,3223990.5666924985
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,DK,Sector,Electricity by solar photovoltaic,3082.5431418026888
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,DK,Sector,Electricity by solar thermal,0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,DK,Sector,"Electricity by tide, wave, ocean",0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,DK,Sector,Electricity by wind,13525.805289203196
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,EE,Sector,Electricity by Geothermal,0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,EE,Sector,Electricity by biomass and waste,1499696.514392965
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,EE,Sector,Electricity by coal,1316933.4383313449
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,EE,Sector,Electricity by gas,4131037.6708687623
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,EE,Sector,Electricity by hydro,20501.52187237212
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,EE,Sector,Electricity by nuclear,0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,EE,Sector,Electricity by petroleum and other oil derivatives,8400092.556212634
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,EE,Sector,Electricity by solar photovoltaic,1487.813228569121
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,EE,Sector,Electricity by solar thermal,0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,EE,Sector,"Electricity by tide, wave, ocean",0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,EE,Sector,Electricity by wind,690.6224754007937
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,ES,Sector,Electricity by Geothermal,0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,ES,Sector,Electricity by biomass and waste,722346.0736976888
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,ES,Sector,Electricity by coal,14133081.219818441
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,ES,Sector,Electricity by gas,4869770.802777058
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,ES,Sector,Electricity by hydro,3903.415211601934
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,ES,Sector,Electricity by nuclear,5186.73547037981
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,ES,Sector,Electricity by petroleum and other oil derivatives,9223566.93802434
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,ES,Sector,Electricity by solar photovoltaic,10879.416425883832
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,ES,Sector,Electricity by solar thermal,0.023986875762201106
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,ES,Sector,"Electricity by tide, wave, ocean",0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,ES,Sector,Electricity by wind,3545.179287050033
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,FI,Sector,Electricity by Geothermal,0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,FI,Sector,Electricity by biomass and waste,533290.0841980675
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,FI,Sector,Electricity by coal,5249016.694173652
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,FI,Sector,Electricity by gas,7260863.367417472
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,FI,Sector,Electricity by hydro,1418.6801384607609
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,FI,Sector,Electricity by nuclear,912.1215263164405
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,FI,Sector,Electricity by petroleum and other oil derivatives,437930.59157570236
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,FI,Sector,Electricity by solar photovoltaic,52898.15456538265
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,FI,Sector,Electricity by solar thermal,0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,FI,Sector,"Electricity by tide, wave, ocean",0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,FI,Sector,Electricity by wind,845.6602581303254
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,FR,Sector,Electricity by Geothermal,6.599648789803643
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,FR,Sector,Electricity by biomass and waste,728466.434938034
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,FR,Sector,Electricity by coal,10779014.591386417
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,FR,Sector,Electricity by gas,5237210.692545389
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,FR,Sector,Electricity by hydro,78.97354932072932
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,FR,Sector,Electricity by nuclear,6.886294404372264
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,FR,Sector,Electricity by petroleum and other oil derivatives,8061687.336847141
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,FR,Sector,Electricity by solar photovoltaic,0.17483859691591724
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,FR,Sector,Electricity by solar thermal,0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,FR,Sector,"Electricity by tide, wave, ocean",28.485472793781142
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,FR,Sector,Electricity by wind,9.455548130784777
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,GB,Sector,Electricity by Geothermal,0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,GB,Sector,Electricity by biomass and waste,1587131.1842496607
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,GB,Sector,Electricity by coal,11900432.872432306
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,GB,Sector,Electricity by gas,5229019.744412112
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,GB,Sector,Electricity by hydro,3289.271794855432
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,GB,Sector,Electricity by nuclear,25.733153040389347
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,GB,Sector,Electricity by petroleum and other oil derivatives,2029665.3653110473
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,GB,Sector,Electricity by solar photovoltaic,110758.95574177784
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,GB,Sector,Electricity by solar thermal,0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,GB,Sector,"Electricity by tide, wave, ocean",115.99854935153748
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,GB,Sector,Electricity by wind,138.4287674873262
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,GR,Sector,Electricity by Geothermal,0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,GR,Sector,Electricity by biomass and waste,180764.18172087605
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,GR,Sector,Electricity by coal,9519667.82857432
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,GR,Sector,Electricity by gas,3717932.5620204983
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,GR,Sector,Electricity by hydro,8201.484281513225
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,GR,Sector,Electricity by nuclear,0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,GR,Sector,Electricity by petroleum and other oil derivatives,7010877.491249598
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,GR,Sector,Electricity by solar photovoltaic,0.03760015898464533
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,GR,Sector,Electricity by solar thermal,0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,GR,Sector,"Electricity by tide, wave, ocean",0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,GR,Sector,Electricity by wind,1911.3753017743984
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,HR,Sector,Electricity by Geothermal,0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,HR,Sector,Electricity by biomass and waste,20585.237634967907
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,HR,Sector,Electricity by coal,9906578.7537617
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,HR,Sector,Electricity by gas,5493845.71975523
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,HR,Sector,Electricity by hydro,247748.14948051365
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,HR,Sector,Electricity by nuclear,0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,HR,Sector,Electricity by petroleum and other oil derivatives,1666809.2013197248
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,HR,Sector,Electricity by solar photovoltaic,69.91541512051748
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,HR,Sector,Electricity by solar thermal,0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,HR,Sector,"Electricity by tide, wave, ocean",0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,HR,Sector,Electricity by wind,56.79738272444649
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,HU,Sector,Electricity by Geothermal,0.0030233567694208374
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,HU,Sector,Electricity by biomass and waste,249821.22496246448
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,HU,Sector,Electricity by coal,12776946.806573404
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,HU,Sector,Electricity by gas,4239652.423795492
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,HU,Sector,Electricity by hydro,34969.05440819883
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,HU,Sector,Electricity by nuclear,365.4179842766535
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,HU,Sector,Electricity by petroleum and other oil derivatives,3214085.976516983
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,HU,Sector,Electricity by solar photovoltaic,957.1139376717676
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,HU,Sector,Electricity by solar thermal,0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,HU,Sector,"Electricity by tide, wave, ocean",0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,HU,Sector,Electricity by wind,1339.379054769104
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,ID,Sector,Electricity by Geothermal,1.567483401559674e-05
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,ID,Sector,Electricity by biomass and waste,18873.752208295427
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,ID,Sector,Electricity by coal,7612387.37011086
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,ID,Sector,Electricity by gas,5758873.290776281
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,ID,Sector,Electricity by hydro,0.0002585580537038001
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,ID,Sector,Electricity by nuclear,0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,ID,Sector,Electricity by petroleum and other oil derivatives,12279034.722620552
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,ID,Sector,Electricity by solar photovoltaic,101.43118828540298
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,ID,Sector,Electricity by solar thermal,0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,ID,Sector,"Electricity by tide, wave, ocean",0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,ID,Sector,Electricity by wind,26.74762886915488
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,IE,Sector,Electricity by Geothermal,0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,IE,Sector,Electricity by biomass and waste,9185291.106069027
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,IE,Sector,Electricity by coal,10905284.57860098
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,IE,Sector,Electricity by gas,3435898.9110697447
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,IE,Sector,Electricity by hydro,1301.3847921751735
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,IE,Sector,Electricity by nuclear,0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,IE,Sector,Electricity by petroleum and other oil derivatives,8021011.357717721
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,IE,Sector,Electricity by solar photovoltaic,1135.6258287772887
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,IE,Sector,Electricity by solar thermal,0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,IE,Sector,"Electricity by tide, wave, ocean",0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,IE,Sector,Electricity by wind,13050.513657231211
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,IN,Sector,Electricity by Geothermal,0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,IN,Sector,Electricity by biomass and waste,3368.1471687469207
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,IN,Sector,Electricity by coal,27430098.244925275
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,IN,Sector,Electricity by gas,9600450.270625811
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,IN,Sector,Electricity by hydro,40266.39680960496
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,IN,Sector,Electricity by nuclear,8890.623681895617
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,IN,Sector,Electricity by petroleum and other oil derivatives,6914571.949662759
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,IN,Sector,Electricity by solar photovoltaic,42.80152644541676
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,IN,Sector,Electricity by solar thermal,0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,IN,Sector,"Electricity by tide, wave, ocean",0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,IN,Sector,Electricity by wind,7347.644970371197
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,IT,Sector,Electricity by Geothermal,483.82884349457254
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,IT,Sector,Electricity by biomass and waste,1995460.5414793934
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,IT,Sector,Electricity by coal,7252485.171488672
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,IT,Sector,Electricity by gas,3210497.3294054465
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,IT,Sector,Electricity by hydro,1354.9228188557438
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,IT,Sector,Electricity by nuclear,0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,IT,Sector,Electricity by petroleum and other oil derivatives,7103837.126304589
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,IT,Sector,Electricity by solar photovoltaic,71.6379587257885
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,IT,Sector,Electricity by solar thermal,0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,IT,Sector,"Electricity by tide, wave, ocean",0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,IT,Sector,Electricity by wind,855.3839279945843
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,JP,Sector,Electricity by Geothermal,35.439401401203845
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,JP,Sector,Electricity by biomass and waste,0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,JP,Sector,Electricity by coal,6400140.611306371
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,JP,Sector,Electricity by gas,4084689.0636064685
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,JP,Sector,Electricity by hydro,1672.5309187556252
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,JP,Sector,Electricity by nuclear,5222.4325632145365
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,JP,Sector,Electricity by petroleum and other oil derivatives,7174052.8551156055
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,JP,Sector,Electricity by solar photovoltaic,17.81676252475383
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,JP,Sector,Electricity by solar thermal,0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,JP,Sector,"Electricity by tide, wave, ocean",0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,JP,Sector,Electricity by wind,1910.9575559174605
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,KR,Sector,Electricity by Geothermal,0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,KR,Sector,Electricity by biomass and waste,9357.299448354906
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,KR,Sector,Electricity by coal,24922229.050646674
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,KR,Sector,Electricity by gas,10097764.89433213
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,KR,Sector,Electricity by hydro,7346.614499679199
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,KR,Sector,Electricity by nuclear,2635.5572312080844
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,KR,Sector,Electricity by petroleum and other oil derivatives,10898606.181145184
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,KR,Sector,Electricity by solar photovoltaic,775.9821697900176
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,KR,Sector,Electricity by solar thermal,0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,KR,Sector,"Electricity by tide, wave, ocean",7781.04575076066
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,KR,Sector,Electricity by wind,4880.93568310078
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,LT,Sector,Electricity by Geothermal,0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,LT,Sector,Electricity by biomass and waste,953217.0035399097
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,LT,Sector,Electricity by coal,0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,LT,Sector,Electricity by gas,1347333.3497805956
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,LT,Sector,Electricity by hydro,4682.465745939512
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,LT,Sector,Electricity by nuclear,0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,LT,Sector,Electricity by petroleum and other oil derivatives,302464.07533054444
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,LT,Sector,Electricity by solar photovoltaic,1003.397845542369
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,LT,Sector,Electricity by solar thermal,0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,LT,Sector,"Electricity by tide, wave, ocean",0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,LT,Sector,Electricity by wind,609.4294171001883
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,LU,Sector,Electricity by Geothermal,0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,LU,Sector,Electricity by biomass and waste,946298.5475407932
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,LU,Sector,Electricity by coal,0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,LU,Sector,Electricity by gas,5482.969857474321
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,LU,Sector,Electricity by hydro,320.7043652734402
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,LU,Sector,Electricity by nuclear,0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,LU,Sector,Electricity by petroleum and other oil derivatives,0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,LU,Sector,Electricity by solar photovoltaic,866.7605338136505
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,LU,Sector,Electricity by solar thermal,0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,LU,Sector,"Electricity by tide, wave, ocean",0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,LU,Sector,Electricity by wind,140.16270944573765
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,LV,Sector,Electricity by Geothermal,0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,LV,Sector,Electricity by biomass and waste,106894.1501228618
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,LV,Sector,Electricity by coal,0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,LV,Sector,Electricity by gas,1396242.1506809532
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,LV,Sector,Electricity by hydro,18141.31536203275
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,LV,Sector,Electricity by nuclear,0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,LV,Sector,Electricity by petroleum and other oil derivatives,0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,LV,Sector,Electricity by solar photovoltaic,0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,LV,Sector,Electricity by solar thermal,0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,LV,Sector,"Electricity by tide, wave, ocean",0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,LV,Sector,Electricity by wind,13670.787646503319
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,MT,Sector,Electricity by Geothermal,0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,MT,Sector,Electricity by biomass and waste,655.4943498974872
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,MT,Sector,Electricity by coal,0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,MT,Sector,Electricity by gas,6113019.308113903
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,MT,Sector,Electricity by hydro,0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,MT,Sector,Electricity by nuclear,0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,MT,Sector,Electricity by petroleum and other oil derivatives,1826200.4980839635
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,MT,Sector,Electricity by solar photovoltaic,2.80947579003037e-07
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,MT,Sector,Electricity by solar thermal,0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,MT,Sector,"Electricity by tide, wave, ocean",0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,MT,Sector,Electricity by wind,0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,MX,Sector,Electricity by Geothermal,3.083153717324295
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,MX,Sector,Electricity by biomass and waste,53517.1057480817
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,MX,Sector,Electricity by coal,29025600.935329795
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,MX,Sector,Electricity by gas,7598777.750285002
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,MX,Sector,Electricity by hydro,814.8841774301688
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,MX,Sector,Electricity by nuclear,169.4968086472325
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,MX,Sector,Electricity by petroleum and other oil derivatives,14884773.053817667
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,MX,Sector,Electricity by solar photovoltaic,182.9202093021924
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,MX,Sector,Electricity by solar thermal,0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,MX,Sector,"Electricity by tide, wave, ocean",0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,MX,Sector,Electricity by wind,88.35921102912327
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,NL,Sector,Electricity by Geothermal,0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,NL,Sector,Electricity by biomass and waste,198003.04215237114
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,NL,Sector,Electricity by coal,5929880.796240138
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,NL,Sector,Electricity by gas,5337295.504126773
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,NL,Sector,Electricity by hydro,282662.44918454124
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,NL,Sector,Electricity by nuclear,18850.782302904543
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,NL,Sector,Electricity by petroleum and other oil derivatives,904542.9651129916
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,NL,Sector,Electricity by solar photovoltaic,7584.683188528458
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,NL,Sector,Electricity by solar thermal,0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,NL,Sector,"Electricity by tide, wave, ocean",0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,NL,Sector,Electricity by wind,28403.503917629314
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,NO,Sector,Electricity by Geothermal,0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,NO,Sector,Electricity by biomass and waste,326095.4815107925
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,NO,Sector,Electricity by coal,3973040.851165196
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,NO,Sector,Electricity by gas,6384800.061657086
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,NO,Sector,Electricity by hydro,100.08676160208631
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,NO,Sector,Electricity by nuclear,0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,NO,Sector,Electricity by petroleum and other oil derivatives,36087.56891463886
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,NO,Sector,Electricity by solar photovoltaic,0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,NO,Sector,Electricity by solar thermal,0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,NO,Sector,"Electricity by tide, wave, ocean",0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,NO,Sector,Electricity by wind,47.56335334776507
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,PL,Sector,Electricity by Geothermal,0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,PL,Sector,Electricity by biomass and waste,146855.2243475713
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,PL,Sector,Electricity by coal,13545680.027852494
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,PL,Sector,Electricity by gas,5383257.689839282
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,PL,Sector,Electricity by hydro,49116.07519894803
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,PL,Sector,Electricity by nuclear,0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,PL,Sector,Electricity by petroleum and other oil derivatives,389186.6598523973
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,PL,Sector,Electricity by solar photovoltaic,1156.8944979517066
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,PL,Sector,Electricity by solar thermal,0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,PL,Sector,"Electricity by tide, wave, ocean",0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,PL,Sector,Electricity by wind,8399.076566526186
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,PT,Sector,Electricity by Geothermal,6272.95552270315
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,PT,Sector,Electricity by biomass and waste,107500.67557641483
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,PT,Sector,Electricity by coal,8783280.397809153
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,PT,Sector,Electricity by gas,3755392.2143441606
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,PT,Sector,Electricity by hydro,3864.830048381626
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,PT,Sector,Electricity by nuclear,0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,PT,Sector,Electricity by petroleum and other oil derivatives,6056011.93609338
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,PT,Sector,Electricity by solar photovoltaic,16754.777000178212
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,PT,Sector,Electricity by solar thermal,0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,PT,Sector,"Electricity by tide, wave, ocean",0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,PT,Sector,Electricity by wind,8590.768995645989
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,RO,Sector,Electricity by Geothermal,0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,RO,Sector,Electricity by biomass and waste,137926.67340150586
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,RO,Sector,Electricity by coal,19398511.671801858
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,RO,Sector,Electricity by gas,5295227.852333958
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,RO,Sector,Electricity by hydro,12109.939067448104
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,RO,Sector,Electricity by nuclear,2014.3828852256615
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,RO,Sector,Electricity by petroleum and other oil derivatives,23199316.809641313
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,RO,Sector,Electricity by solar photovoltaic,17153.189692170796
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,RO,Sector,Electricity by solar thermal,0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,RO,Sector,"Electricity by tide, wave, ocean",0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,RO,Sector,Electricity by wind,0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,RU,Sector,Electricity by Geothermal,608901.754794233
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,RU,Sector,Electricity by biomass and waste,656727.3622194199
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,RU,Sector,Electricity by coal,17825424.719820954
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,RU,Sector,Electricity by gas,12074199.1732143
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,RU,Sector,Electricity by hydro,39860.91723863697
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,RU,Sector,Electricity by nuclear,7462.501969610412
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,RU,Sector,Electricity by petroleum and other oil derivatives,3340272.9695026684
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,RU,Sector,Electricity by solar photovoltaic,384038.6805518986
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,RU,Sector,Electricity by solar thermal,0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,RU,Sector,"Electricity by tide, wave, ocean",0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,RU,Sector,Electricity by wind,669513.3708576338
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,SE,Sector,Electricity by Geothermal,0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,SE,Sector,Electricity by biomass and waste,109819.16991300795
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,SE,Sector,Electricity by coal,2533034.460467981
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,SE,Sector,Electricity by gas,1411508.963639527
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,SE,Sector,Electricity by hydro,5292.186398381434
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,SE,Sector,Electricity by nuclear,3424.6868204288744
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,SE,Sector,Electricity by petroleum and other oil derivatives,696992.2640268045
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,SE,Sector,Electricity by solar photovoltaic,1906.7509765517239
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,SE,Sector,Electricity by solar thermal,0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,SE,Sector,"Electricity by tide, wave, ocean",0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,SE,Sector,Electricity by wind,5175.605822788709
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,SI,Sector,Electricity by Geothermal,0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,SI,Sector,Electricity by biomass and waste,167623.16572569893
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,SI,Sector,Electricity by coal,10172296.75219053
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,SI,Sector,Electricity by gas,1725773.0939971148
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,SI,Sector,Electricity by hydro,127032.5262034104
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,SI,Sector,Electricity by nuclear,2872.930961112394
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,SI,Sector,Electricity by petroleum and other oil derivatives,4397096.6715983935
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,SI,Sector,Electricity by solar photovoltaic,7884.7048588338175
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,SI,Sector,Electricity by solar thermal,0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,SI,Sector,"Electricity by tide, wave, ocean",0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,SI,Sector,Electricity by wind,7727.974133852984
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,SK,Sector,Electricity by Geothermal,0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,SK,Sector,Electricity by biomass and waste,172579.31155616758
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,SK,Sector,Electricity by coal,3943357.1762946686
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,SK,Sector,Electricity by gas,1503856.0407409833
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,SK,Sector,Electricity by hydro,16666.94940963492
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,SK,Sector,Electricity by nuclear,837.7661929539294
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,SK,Sector,Electricity by petroleum and other oil derivatives,9680212.206568766
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,SK,Sector,Electricity by solar photovoltaic,15342.259968407965
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,SK,Sector,Electricity by solar thermal,0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,SK,Sector,"Electricity by tide, wave, ocean",0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,SK,Sector,Electricity by wind,164386.71149520337
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,TR,Sector,Electricity by Geothermal,621.3659644280114
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,TR,Sector,Electricity by biomass and waste,92439.85067051661
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,TR,Sector,Electricity by coal,21204439.83979723
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,TR,Sector,Electricity by gas,9686755.383057926
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,TR,Sector,Electricity by hydro,1352.0743216951548
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,TR,Sector,Electricity by nuclear,0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,TR,Sector,Electricity by petroleum and other oil derivatives,3109056.0208408535
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,TR,Sector,Electricity by solar photovoltaic,379.17730769250113
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,TR,Sector,Electricity by solar thermal,0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,TR,Sector,"Electricity by tide, wave, ocean",0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,TR,Sector,Electricity by wind,377.58905085028795
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,TW,Sector,Electricity by Geothermal,0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,TW,Sector,Electricity by biomass and waste,628311.6559937455
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,TW,Sector,Electricity by coal,54219804.641641274
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,TW,Sector,Electricity by gas,30994437.442693815
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,TW,Sector,Electricity by hydro,37475.94093190144
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,TW,Sector,Electricity by nuclear,4833.3885891460395
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,TW,Sector,Electricity by petroleum and other oil derivatives,59307050.19923622
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,TW,Sector,Electricity by solar photovoltaic,0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,TW,Sector,Electricity by solar thermal,0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,TW,Sector,"Electricity by tide, wave, ocean",0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,TW,Sector,Electricity by wind,4493.263315597739
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,US,Sector,Electricity by Geothermal,86215.15754443334
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,US,Sector,Electricity by biomass and waste,4700820.459037197
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,US,Sector,Electricity by coal,26039017.2785347
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,US,Sector,Electricity by gas,8278269.64911088
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,US,Sector,Electricity by hydro,162165.07799931237
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,US,Sector,Electricity by nuclear,67701.52215414084
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,US,Sector,Electricity by petroleum and other oil derivatives,12228328.151196957
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,US,Sector,Electricity by solar photovoltaic,76311.2294297445
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,US,Sector,Electricity by solar thermal,48221.71011602124
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,US,Sector,"Electricity by tide, wave, ocean",0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,US,Sector,Electricity by wind,105811.36847440917
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,WA,Sector,Electricity by Geothermal,2191.1234368764985
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,WA,Sector,Electricity by biomass and waste,26296775.49656194
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,WA,Sector,Electricity by coal,33210846.508903645
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,WA,Sector,Electricity by gas,14349916.999530902
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,WA,Sector,Electricity by hydro,8999.765659414297
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,WA,Sector,Electricity by nuclear,899.8198057207699
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,WA,Sector,Electricity by petroleum and other oil derivatives,27064217.536186047
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,WA,Sector,Electricity by solar photovoltaic,9931.438625950548
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,WA,Sector,Electricity by solar thermal,0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,WA,Sector,"Electricity by tide, wave, ocean",0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,WA,Sector,Electricity by wind,40.78901851282487
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,WE,Sector,Electricity by Geothermal,47334.64690878607
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,WE,Sector,Electricity by biomass and waste,289901.8538250464
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,WE,Sector,Electricity by coal,91831529.20765927
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,WE,Sector,Electricity by gas,32358325.76925706
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,WE,Sector,Electricity by hydro,13053.088697887768
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,WE,Sector,Electricity by nuclear,8643.843190623096
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,WE,Sector,Electricity by petroleum and other oil derivatives,7849271.44016017
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,WE,Sector,Electricity by solar photovoltaic,496.3039610005041
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,WE,Sector,Electricity by solar thermal,0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,WE,Sector,"Electricity by tide, wave, ocean",0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,WE,Sector,Electricity by wind,10724.307414570896
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,WF,Sector,Electricity by Geothermal,9361.45928009662
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,WF,Sector,Electricity by biomass and waste,9564101.931851842
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,WF,Sector,Electricity by coal,11909724.343055679
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,WF,Sector,Electricity by gas,6765683.536458557
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,WF,Sector,Electricity by hydro,15335.429077472358
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,WF,Sector,Electricity by nuclear,0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,WF,Sector,Electricity by petroleum and other oil derivatives,10846497.500094583
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,WF,Sector,Electricity by solar photovoltaic,66041.51302490369
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,WF,Sector,Electricity by solar thermal,504.1420936457014
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,WF,Sector,"Electricity by tide, wave, ocean",0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,WF,Sector,Electricity by wind,110.75434031029826
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,WL,Sector,Electricity by Geothermal,30594.230346583896
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,WL,Sector,Electricity by biomass and waste,2264764.0182905397
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,WL,Sector,Electricity by coal,18973531.07134448
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,WL,Sector,Electricity by gas,12836643.787401866
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,WL,Sector,Electricity by hydro,3938.828178948256
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,WL,Sector,Electricity by nuclear,12910.264486863505
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,WL,Sector,Electricity by petroleum and other oil derivatives,13978406.398238832
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,WL,Sector,Electricity by solar photovoltaic,1265.5373768869829
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,WL,Sector,Electricity by solar thermal,0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,WL,Sector,"Electricity by tide, wave, ocean",0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,WL,Sector,Electricity by wind,63690.02436153634
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,WM,Sector,Electricity by Geothermal,44611.95267399442
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,WM,Sector,Electricity by biomass and waste,58837.951456669085
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,WM,Sector,Electricity by coal,25327987.464335624
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,WM,Sector,Electricity by gas,15086196.615253707
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,WM,Sector,Electricity by hydro,26269.050393960497
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,WM,Sector,Electricity by nuclear,1555.9570109341505
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,WM,Sector,Electricity by petroleum and other oil derivatives,24437454.854817275
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,WM,Sector,Electricity by solar photovoltaic,23599.583737733014
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,WM,Sector,Electricity by solar thermal,3.9697056790251185e-10
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,WM,Sector,"Electricity by tide, wave, ocean",0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,WM,Sector,Electricity by wind,18288.638890524813
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,ZA,Sector,Electricity by Geothermal,0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,ZA,Sector,Electricity by biomass and waste,0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,ZA,Sector,Electricity by coal,23194546.313119758
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,ZA,Sector,Electricity by gas,0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,ZA,Sector,Electricity by hydro,95596.78434401803
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,ZA,Sector,Electricity by nuclear,25439.78404423325
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,ZA,Sector,Electricity by petroleum and other oil derivatives,3733213.0627000285
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,ZA,Sector,Electricity by solar photovoltaic,201.2668928091929
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,ZA,Sector,Electricity by solar thermal,117904.67467687835
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,ZA,Sector,"Electricity by tide, wave, ocean",0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Intensity,GHG,kg CO2eq/M.EUR,ZA,Sector,Electricity by wind,575.8780733745939
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,AT,Sector,Electricity by Geothermal,0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,AT,Sector,Electricity by biomass and waste,2720791.028956419
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,AT,Sector,Electricity by coal,4262446.29324645
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,AT,Sector,Electricity by gas,4415375.767190519
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,AT,Sector,Electricity by hydro,309391.74653376103
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,AT,Sector,Electricity by nuclear,0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,AT,Sector,Electricity by petroleum and other oil derivatives,1981309.0828160085
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,AT,Sector,Electricity by solar photovoltaic,308547.02752626437
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,AT,Sector,Electricity by solar thermal,0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,AT,Sector,"Electricity by tide, wave, ocean",0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,AT,Sector,Electricity by wind,320202.8033864937
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,AU,Sector,Electricity by Geothermal,647087.8100168807
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,AU,Sector,Electricity by biomass and waste,410200.36600168195
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,AU,Sector,Electricity by coal,9132445.850871464
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,AU,Sector,Electricity by gas,4168528.9002255886
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,AU,Sector,Electricity by hydro,84243.09155514596
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,AU,Sector,Electricity by nuclear,0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,AU,Sector,Electricity by petroleum and other oil derivatives,1872491.2613447886
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,AU,Sector,Electricity by solar photovoltaic,134224.78117256297
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,AU,Sector,Electricity by solar thermal,723610.285417753
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,AU,Sector,"Electricity by tide, wave, ocean",0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,AU,Sector,Electricity by wind,144134.30459774108
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,BE,Sector,Electricity by Geothermal,0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,BE,Sector,Electricity by biomass and waste,4505818.498181749
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,BE,Sector,Electricity by coal,547581.2735664896
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,BE,Sector,Electricity by gas,6900591.950467473
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,BE,Sector,Electricity by hydro,151562.84850376833
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,BE,Sector,Electricity by nuclear,113655.64805755955
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,BE,Sector,Electricity by petroleum and other oil derivatives,2880795.097037012
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,BE,Sector,Electricity by solar photovoltaic,139422.4685402772
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,BE,Sector,Electricity by solar thermal,0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,BE,Sector,"Electricity by tide, wave, ocean",0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,BE,Sector,Electricity by wind,135717.1482101321
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,BG,Sector,Electricity by Geothermal,0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,BG,Sector,Electricity by biomass and waste,104319.4531632735
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,BG,Sector,Electricity by coal,20558841.93649041
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,BG,Sector,Electricity by gas,2501501.8493278213
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,BG,Sector,Electricity by hydro,184974.63350460585
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,BG,Sector,Electricity by nuclear,213358.4580982076
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,BG,Sector,Electricity by petroleum and other oil derivatives,3881401.8745863354
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,BG,Sector,Electricity by solar photovoltaic,326322.68241438543
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,BG,Sector,Electricity by solar thermal,0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,BG,Sector,"Electricity by tide, wave, ocean",0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,BG,Sector,Electricity by wind,256370.48159650463
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,BR,Sector,Electricity by Geothermal,0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,BR,Sector,Electricity by biomass and waste,19858.52851576417
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,BR,Sector,Electricity by coal,10771531.245984755
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,BR,Sector,Electricity by gas,6774997.913037251
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,BR,Sector,Electricity by hydro,61079.71177892707
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,BR,Sector,Electricity by nuclear,38373.78095506224
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,BR,Sector,Electricity by petroleum and other oil derivatives,5369001.139270212
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,BR,Sector,Electricity by solar photovoltaic,130581.90045308828
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,BR,Sector,Electricity by solar thermal,0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,BR,Sector,"Electricity by tide, wave, ocean",0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,BR,Sector,Electricity by wind,187897.89218142204
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,CA,Sector,Electricity by Geothermal,0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,CA,Sector,Electricity by biomass and waste,1176854.2130400492
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,CA,Sector,Electricity by coal,21411073.056081202
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,CA,Sector,Electricity by gas,8173734.156905215
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,CA,Sector,Electricity by hydro,101614.9940455757
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,CA,Sector,Electricity by nuclear,135797.2547439638
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,CA,Sector,Electricity by petroleum and other oil derivatives,8369866.784153374
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,CA,Sector,Electricity by solar photovoltaic,300941.8578146064
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,CA,Sector,Electricity by solar thermal,0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,CA,Sector,"Electricity by tide, wave, ocean",657580.5296300407
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,CA,Sector,Electricity by wind,76892.29728682929
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,CH,Sector,Electricity by Geothermal,0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,CH,Sector,Electricity by biomass and waste,302260.5631379729
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,CH,Sector,Electricity by coal,0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,CH,Sector,Electricity by gas,1255271.470815919
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,CH,Sector,Electricity by hydro,194517.463729946
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,CH,Sector,Electricity by nuclear,255880.1828303692
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,CH,Sector,Electricity by petroleum and other oil derivatives,1454284.8683383134
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,CH,Sector,Electricity by solar photovoltaic,188259.4812522413
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,CH,Sector,Electricity by solar thermal,0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,CH,Sector,"Electricity by tide, wave, ocean",0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,CH,Sector,Electricity by wind,208688.92346650682
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,CN,Sector,Electricity by Geothermal,412856.80111294007
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,CN,Sector,Electricity by biomass and waste,1210869.8597037713
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,CN,Sector,Electricity by coal,16193044.117202953
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,CN,Sector,Electricity by gas,7128778.551938784
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,CN,Sector,Electricity by hydro,295440.52198858623
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,CN,Sector,Electricity by nuclear,705067.8458608239
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,CN,Sector,Electricity by petroleum and other oil derivatives,4273042.99293092
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,CN,Sector,Electricity by solar photovoltaic,386166.1916988804
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,CN,Sector,Electricity by solar thermal,1210192.7546782545
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,CN,Sector,"Electricity by tide, wave, ocean",370198.7735625436
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,CN,Sector,Electricity by wind,598375.2560634317
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,CY,Sector,Electricity by Geothermal,0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,CY,Sector,Electricity by biomass and waste,7457.22108634455
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,CY,Sector,Electricity by coal,0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,CY,Sector,Electricity by gas,0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,CY,Sector,Electricity by hydro,0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,CY,Sector,Electricity by nuclear,0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,CY,Sector,Electricity by petroleum and other oil derivatives,9243171.615775827
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,CY,Sector,Electricity by solar photovoltaic,324322.42134525697
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,CY,Sector,Electricity by solar thermal,0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,CY,Sector,"Electricity by tide, wave, ocean",0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,CY,Sector,Electricity by wind,750005.7645379696
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,CZ,Sector,Electricity by Geothermal,0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,CZ,Sector,Electricity by biomass and waste,479791.5848811539
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,CZ,Sector,Electricity by coal,13161742.434926936
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,CZ,Sector,Electricity by gas,5483811.7131222375
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,CZ,Sector,Electricity by hydro,275355.6008235393
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,CZ,Sector,Electricity by nuclear,276536.04848148377
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,CZ,Sector,Electricity by petroleum and other oil derivatives,4344707.017353923
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,CZ,Sector,Electricity by solar photovoltaic,199803.30201971272
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,CZ,Sector,Electricity by solar thermal,0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,CZ,Sector,"Electricity by tide, wave, ocean",0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,CZ,Sector,Electricity by wind,220384.61348904102
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,DE,Sector,Electricity by Geothermal,79387.2684473957
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,DE,Sector,Electricity by biomass and waste,2273822.15847384
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,DE,Sector,Electricity by coal,11553142.201264014
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,DE,Sector,Electricity by gas,2664843.34342955
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,DE,Sector,Electricity by hydro,252557.20610319637
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,DE,Sector,Electricity by nuclear,121001.3187117933
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,DE,Sector,Electricity by petroleum and other oil derivatives,3055338.053250379
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,DE,Sector,Electricity by solar photovoltaic,146941.94352864858
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,DE,Sector,Electricity by solar thermal,0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,DE,Sector,"Electricity by tide, wave, ocean",0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,DE,Sector,Electricity by wind,139565.4812642859
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,DK,Sector,Electricity by Geothermal,0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,DK,Sector,Electricity by biomass and waste,214167.53067801188
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,DK,Sector,Electricity by coal,144717.73975925037
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,DK,Sector,Electricity by gas,2767540.042488583
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,DK,Sector,Electricity by hydro,766846.6133656696
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,DK,Sector,Electricity by nuclear,0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,DK,Sector,Electricity by petroleum and other oil derivatives,3729481.2794050043
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,DK,Sector,Electricity by solar photovoltaic,16540.014144517725
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,DK,Sector,Electricity by solar thermal,0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,DK,Sector,"Electricity by tide, wave, ocean",0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,DK,Sector,Electricity by wind,41816.64015976114
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,EE,Sector,Electricity by Geothermal,0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,EE,Sector,Electricity by biomass and waste,1814815.5093762786
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,EE,Sector,Electricity by coal,1842416.7410238087
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,EE,Sector,Electricity by gas,4546794.395720536
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,EE,Sector,Electricity by hydro,638205.9433104261
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,EE,Sector,Electricity by nuclear,0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,EE,Sector,Electricity by petroleum and other oil derivatives,8894022.539541472
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,EE,Sector,Electricity by solar photovoltaic,289152.3604941888
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,EE,Sector,Electricity by solar thermal,0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,EE,Sector,"Electricity by tide, wave, ocean",0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,EE,Sector,Electricity by wind,393146.88829334563
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,ES,Sector,Electricity by Geothermal,0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,ES,Sector,Electricity by biomass and waste,960718.460135736
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,ES,Sector,Electricity by coal,14460868.832492266
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,ES,Sector,Electricity by gas,5141495.056097023
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,ES,Sector,Electricity by hydro,107157.10286275441
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,ES,Sector,Electricity by nuclear,108796.1077141671
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,ES,Sector,Electricity by petroleum and other oil derivatives,9933004.26127863
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,ES,Sector,Electricity by solar photovoltaic,147449.52724064945
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,ES,Sector,Electricity by solar thermal,93459.79373777307
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,ES,Sector,"Electricity by tide, wave, ocean",0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,ES,Sector,Electricity by wind,104139.49053029844
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,FI,Sector,Electricity by Geothermal,0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,FI,Sector,Electricity by biomass and waste,905326.9470230573
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,FI,Sector,Electricity by coal,5646380.337349803
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,FI,Sector,Electricity by gas,7604852.5343950745
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,FI,Sector,Electricity by hydro,103596.56383052775
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,FI,Sector,Electricity by nuclear,86456.60311154537
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,FI,Sector,Electricity by petroleum and other oil derivatives,1048210.3243097961
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,FI,Sector,Electricity by solar photovoltaic,386662.91844605823
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,FI,Sector,Electricity by solar thermal,0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,FI,Sector,"Electricity by tide, wave, ocean",0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,FI,Sector,Electricity by wind,105404.008427053
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,FR,Sector,Electricity by Geothermal,175675.72084584698
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,FR,Sector,Electricity by biomass and waste,751140.8492768205
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,FR,Sector,Electricity by coal,11639957.145429118
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,FR,Sector,Electricity by gas,5503200.337768961
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,FR,Sector,Electricity by hydro,332247.95892263926
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,FR,Sector,Electricity by nuclear,135654.93582469915
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,FR,Sector,Electricity by petroleum and other oil derivatives,8789277.161066404
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,FR,Sector,Electricity by solar photovoltaic,173026.94776959103
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,FR,Sector,Electricity by solar thermal,0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,FR,Sector,"Electricity by tide, wave, ocean",178097.4776654945
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,FR,Sector,Electricity by wind,171042.5789741231
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,GB,Sector,Electricity by Geothermal,0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,GB,Sector,Electricity by biomass and waste,1814359.649974027
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,GB,Sector,Electricity by coal,12697532.988069404
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,GB,Sector,Electricity by gas,5690378.612551004
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,GB,Sector,Electricity by hydro,379811.28335287736
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,GB,Sector,Electricity by nuclear,276762.89743632195
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,GB,Sector,Electricity by petroleum and other oil derivatives,2814741.1871009595
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,GB,Sector,Electricity by solar photovoltaic,568586.5284711567
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,GB,Sector,Electricity by solar thermal,0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,GB,Sector,"Electricity by tide, wave, ocean",323475.6742338174
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,GB,Sector,Electricity by wind,308930.26143057656
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,GR,Sector,Electricity by Geothermal,0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,GR,Sector,Electricity by biomass and waste,445760.206506245
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,GR,Sector,Electricity by coal,9975897.663731726
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,GR,Sector,Electricity by gas,3962503.7595152087
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,GR,Sector,Electricity by hydro,128681.27187308385
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,GR,Sector,Electricity by nuclear,0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,GR,Sector,Electricity by petroleum and other oil derivatives,7397907.794394116
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,GR,Sector,Electricity by solar photovoltaic,99924.25158138631
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,GR,Sector,Electricity by solar thermal,0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,GR,Sector,"Electricity by tide, wave, ocean",0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,GR,Sector,Electricity by wind,122516.43664876866
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,HR,Sector,Electricity by Geothermal,0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,HR,Sector,Electricity by biomass and waste,164155.41157728512
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,HR,Sector,Electricity by coal,10416057.643735508
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,HR,Sector,Electricity by gas,6015795.572844237
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,HR,Sector,Electricity by hydro,367133.1284200567
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,HR,Sector,Electricity by nuclear,0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,HR,Sector,Electricity by petroleum and other oil derivatives,2433557.0021778056
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,HR,Sector,Electricity by solar photovoltaic,33090.857768886264
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,HR,Sector,Electricity by solar thermal,0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,HR,Sector,"Electricity by tide, wave, ocean",0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,HR,Sector,Electricity by wind,29823.15530637511
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,HU,Sector,Electricity by Geothermal,7928.593071969541
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,HU,Sector,Electricity by biomass and waste,720179.6719645222
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,HU,Sector,Electricity by coal,13305674.643196428
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,HU,Sector,Electricity by gas,4853943.685379758
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,HU,Sector,Electricity by hydro,330440.4067998434
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,HU,Sector,Electricity by nuclear,197687.1175411395
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,HU,Sector,Electricity by petroleum and other oil derivatives,4106502.2098199646
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,HU,Sector,Electricity by solar photovoltaic,315245.43236189097
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,HU,Sector,Electricity by solar thermal,0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,HU,Sector,"Electricity by tide, wave, ocean",0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,HU,Sector,Electricity by wind,193033.47661946958
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,ID,Sector,Electricity by Geothermal,49771.68329631249
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,ID,Sector,Electricity by biomass and waste,19132.219723177866
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,ID,Sector,Electricity by coal,7802300.335922092
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,ID,Sector,Electricity by gas,6922388.10148103
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,ID,Sector,Electricity by hydro,182237.1191394334
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,ID,Sector,Electricity by nuclear,0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,ID,Sector,Electricity by petroleum and other oil derivatives,13198527.377102531
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,ID,Sector,Electricity by solar photovoltaic,583428.1443511501
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,ID,Sector,Electricity by solar thermal,0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,ID,Sector,"Electricity by tide, wave, ocean",0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,ID,Sector,Electricity by wind,660496.3515100472
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,IE,Sector,Electricity by Geothermal,0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,IE,Sector,Electricity by biomass and waste,9232823.069408806
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,IE,Sector,Electricity by coal,11008440.335779052
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,IE,Sector,Electricity by gas,3628154.4102421096
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,IE,Sector,Electricity by hydro,60281.52889183177
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,IE,Sector,Electricity by nuclear,0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,IE,Sector,Electricity by petroleum and other oil derivatives,8645355.939053338
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,IE,Sector,Electricity by solar photovoltaic,57643.30344398062
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,IE,Sector,Electricity by solar thermal,0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,IE,Sector,"Electricity by tide, wave, ocean",0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,IE,Sector,Electricity by wind,88217.1369978924
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,IN,Sector,Electricity by Geothermal,0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,IN,Sector,Electricity by biomass and waste,366656.1093012333
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,IN,Sector,Electricity by coal,27859960.88698112
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,IN,Sector,Electricity by gas,10081635.447310248
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,IN,Sector,Electricity by hydro,435604.4277606423
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,IN,Sector,Electricity by nuclear,454607.4849605388
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,IN,Sector,Electricity by petroleum and other oil derivatives,8241660.527342195
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,IN,Sector,Electricity by solar photovoltaic,500166.67254597053
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,IN,Sector,Electricity by solar thermal,0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,IN,Sector,"Electricity by tide, wave, ocean",0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,IN,Sector,Electricity by wind,520736.45592915127
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,IT,Sector,Electricity by Geothermal,74884.93049025859
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,IT,Sector,Electricity by biomass and waste,2156273.7063328736
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,IT,Sector,Electricity by coal,7544838.71743263
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,IT,Sector,Electricity by gas,3419088.0830671303
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,IT,Sector,Electricity by hydro,80805.1696143829
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,IT,Sector,Electricity by nuclear,0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,IT,Sector,Electricity by petroleum and other oil derivatives,7546406.443317137
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,IT,Sector,Electricity by solar photovoltaic,70598.4193189953
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,IT,Sector,Electricity by solar thermal,0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,IT,Sector,"Electricity by tide, wave, ocean",0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,IT,Sector,Electricity by wind,71572.17045906612
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,JP,Sector,Electricity by Geothermal,177231.6017983827
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,JP,Sector,Electricity by biomass and waste,0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,JP,Sector,Electricity by coal,8850942.927541675
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,JP,Sector,Electricity by gas,8573871.603888396
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,JP,Sector,Electricity by hydro,227817.0509348495
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,JP,Sector,Electricity by nuclear,368108.51336267556
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,JP,Sector,Electricity by petroleum and other oil derivatives,8172497.496103856
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,JP,Sector,Electricity by solar photovoltaic,225416.83286057095
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,JP,Sector,Electricity by solar thermal,0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,JP,Sector,"Electricity by tide, wave, ocean",0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,JP,Sector,Electricity by wind,218710.75064607395
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,KR,Sector,Electricity by Geothermal,0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,KR,Sector,Electricity by biomass and waste,203564.0188780886
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,KR,Sector,Electricity by coal,25207697.18422044
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,KR,Sector,Electricity by gas,10746185.159473035
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,KR,Sector,Electricity by hydro,276831.2804716587
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,KR,Sector,Electricity by nuclear,240520.47519736455
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,KR,Sector,Electricity by petroleum and other oil derivatives,12071255.59148414
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,KR,Sector,Electricity by solar photovoltaic,80082.63601993908
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,KR,Sector,Electricity by solar thermal,0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,KR,Sector,"Electricity by tide, wave, ocean",362246.325298624
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,KR,Sector,Electricity by wind,294494.0159547759
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,LT,Sector,Electricity by Geothermal,0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,LT,Sector,Electricity by biomass and waste,1551958.1179324286
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,LT,Sector,Electricity by coal,0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,LT,Sector,Electricity by gas,1890352.8284488516
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,LT,Sector,Electricity by hydro,221117.1933807329
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,LT,Sector,Electricity by nuclear,0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,LT,Sector,Electricity by petroleum and other oil derivatives,1019737.3959136815
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,LT,Sector,Electricity by solar photovoltaic,99829.1426638237
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,LT,Sector,Electricity by solar thermal,0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,LT,Sector,"Electricity by tide, wave, ocean",0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,LT,Sector,Electricity by wind,183057.24230511225
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,LU,Sector,Electricity by Geothermal,0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,LU,Sector,Electricity by biomass and waste,1087633.5754111756
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,LU,Sector,Electricity by coal,0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,LU,Sector,Electricity by gas,122440.45926452367
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,LU,Sector,Electricity by hydro,109705.5293392691
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,LU,Sector,Electricity by nuclear,0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,LU,Sector,Electricity by petroleum and other oil derivatives,0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,LU,Sector,Electricity by solar photovoltaic,111226.69676628133
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,LU,Sector,Electricity by solar thermal,0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,LU,Sector,"Electricity by tide, wave, ocean",0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,LU,Sector,Electricity by wind,106260.07356900682
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,LV,Sector,Electricity by Geothermal,0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,LV,Sector,Electricity by biomass and waste,364721.9972081509
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,LV,Sector,Electricity by coal,0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,LV,Sector,Electricity by gas,1813572.7961346232
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,LV,Sector,Electricity by hydro,174665.11326105898
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,LV,Sector,Electricity by nuclear,0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,LV,Sector,Electricity by petroleum and other oil derivatives,0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,LV,Sector,Electricity by solar photovoltaic,0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,LV,Sector,Electricity by solar thermal,0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,LV,Sector,"Electricity by tide, wave, ocean",0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,LV,Sector,Electricity by wind,132278.03958969022
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,MT,Sector,Electricity by Geothermal,0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,MT,Sector,Electricity by biomass and waste,892086.4194523831
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,MT,Sector,Electricity by coal,0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,MT,Sector,Electricity by gas,7088153.193310373
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,MT,Sector,Electricity by hydro,0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,MT,Sector,Electricity by nuclear,0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,MT,Sector,Electricity by petroleum and other oil derivatives,3171195.367805934
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,MT,Sector,Electricity by solar photovoltaic,255545.80235997046
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,MT,Sector,Electricity by solar thermal,0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,MT,Sector,"Electricity by tide, wave, ocean",0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,MT,Sector,Electricity by wind,0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,MX,Sector,Electricity by Geothermal,566205.5654227415
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,MX,Sector,Electricity by biomass and waste,283273.58397038264
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,MX,Sector,Electricity by coal,29684450.039509926
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,MX,Sector,Electricity by gas,8227597.223438854
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,MX,Sector,Electricity by hydro,558991.7954588546
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,MX,Sector,Electricity by nuclear,277529.7005054077
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,MX,Sector,Electricity by petroleum and other oil derivatives,15514070.768496325
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,MX,Sector,Electricity by solar photovoltaic,341897.4724523464
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,MX,Sector,Electricity by solar thermal,0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,MX,Sector,"Electricity by tide, wave, ocean",0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,MX,Sector,Electricity by wind,356547.8022472366
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,NL,Sector,Electricity by Geothermal,0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,NL,Sector,Electricity by biomass and waste,370076.3801117461
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,NL,Sector,Electricity by coal,6611865.852631295
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,NL,Sector,Electricity by gas,5821167.341676808
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,NL,Sector,Electricity by hydro,993796.801232338
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,NL,Sector,Electricity by nuclear,152801.85712945662
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,NL,Sector,Electricity by petroleum and other oil derivatives,1363053.7640238488
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,NL,Sector,Electricity by solar photovoltaic,138630.7929901211
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,NL,Sector,Electricity by solar thermal,0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,NL,Sector,"Electricity by tide, wave, ocean",0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,NL,Sector,Electricity by wind,175636.64026898166
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,NO,Sector,Electricity by Geothermal,0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,NO,Sector,Electricity by biomass and waste,786443.6161782062
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,NO,Sector,Electricity by coal,4497772.575077
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,NO,Sector,Electricity by gas,6471729.331294743
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,NO,Sector,Electricity by hydro,27463.267244645103
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,NO,Sector,Electricity by nuclear,0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,NO,Sector,Electricity by petroleum and other oil derivatives,266467.8865116883
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,NO,Sector,Electricity by solar photovoltaic,0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,NO,Sector,Electricity by solar thermal,0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,NO,Sector,"Electricity by tide, wave, ocean",0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,NO,Sector,Electricity by wind,26262.210846895745
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,PL,Sector,Electricity by Geothermal,0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,PL,Sector,Electricity by biomass and waste,669417.0721320396
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,PL,Sector,Electricity by coal,14320865.692162296
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,PL,Sector,Electricity by gas,6063073.6795281395
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,PL,Sector,Electricity by hydro,386357.38296027033
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,PL,Sector,Electricity by nuclear,0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,PL,Sector,Electricity by petroleum and other oil derivatives,2051005.529949645
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,PL,Sector,Electricity by solar photovoltaic,266915.9577992019
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,PL,Sector,Electricity by solar thermal,0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,PL,Sector,"Electricity by tide, wave, ocean",0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,PL,Sector,Electricity by wind,344324.9905143445
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,PT,Sector,Electricity by Geothermal,201727.75736099557
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,PT,Sector,Electricity by biomass and waste,419872.932270698
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,PT,Sector,Electricity by coal,9142709.398646915
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,PT,Sector,Electricity by gas,4096094.7930847476
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,PT,Sector,Electricity by hydro,181068.58285492062
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,PT,Sector,Electricity by nuclear,0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,PT,Sector,Electricity by petroleum and other oil derivatives,6674813.766459221
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,PT,Sector,Electricity by solar photovoltaic,178638.25176553312
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,PT,Sector,Electricity by solar thermal,0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,PT,Sector,"Electricity by tide, wave, ocean",0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,PT,Sector,Electricity by wind,142468.39031724518
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,RO,Sector,Electricity by Geothermal,0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,RO,Sector,Electricity by biomass and waste,176522.92124811414
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,RO,Sector,Electricity by coal,20089799.875114266
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,RO,Sector,Electricity by gas,6410362.227145885
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,RO,Sector,Electricity by hydro,197528.58944489417
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,RO,Sector,Electricity by nuclear,140200.9584010168
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,RO,Sector,Electricity by petroleum and other oil derivatives,23884994.843496364
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,RO,Sector,Electricity by solar photovoltaic,254623.08500025628
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,RO,Sector,Electricity by solar thermal,0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,RO,Sector,"Electricity by tide, wave, ocean",0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,RO,Sector,Electricity by wind,171943.67290735734
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,RU,Sector,Electricity by Geothermal,1537973.944926001
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,RU,Sector,Electricity by biomass and waste,1397455.3588249858
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,RU,Sector,Electricity by coal,18100486.623555277
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,RU,Sector,Electricity by gas,12497884.578814713
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,RU,Sector,Electricity by hydro,273503.64176106633
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,RU,Sector,Electricity by nuclear,164503.5616117695
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,RU,Sector,Electricity by petroleum and other oil derivatives,4220401.358476294
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,RU,Sector,Electricity by solar photovoltaic,1321387.2653857793
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,RU,Sector,Electricity by solar thermal,0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,RU,Sector,"Electricity by tide, wave, ocean",0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,RU,Sector,Electricity by wind,1309923.6793700005
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,SE,Sector,Electricity by Geothermal,0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,SE,Sector,Electricity by biomass and waste,297381.7330329249
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,SE,Sector,Electricity by coal,2852338.0212260233
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,SE,Sector,Electricity by gas,1685305.849083872
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,SE,Sector,Electricity by hydro,156856.49284378908
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,SE,Sector,Electricity by nuclear,129302.63488216285
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,SE,Sector,Electricity by petroleum and other oil derivatives,1192957.4328171648
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,SE,Sector,Electricity by solar photovoltaic,139082.41812514892
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,SE,Sector,Electricity by solar thermal,0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,SE,Sector,"Electricity by tide, wave, ocean",0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,SE,Sector,Electricity by wind,81172.46677374085
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,SI,Sector,Electricity by Geothermal,0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,SI,Sector,Electricity by biomass and waste,592522.1950507765
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,SI,Sector,Electricity by coal,10488465.234562822
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,SI,Sector,Electricity by gas,2078735.0546675147
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,SI,Sector,Electricity by hydro,320157.8784473652
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,SI,Sector,Electricity by nuclear,191122.0799376682
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,SI,Sector,Electricity by petroleum and other oil derivatives,4743066.492777042
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,SI,Sector,Electricity by solar photovoltaic,172266.83643172952
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,SI,Sector,Electricity by solar thermal,0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,SI,Sector,"Electricity by tide, wave, ocean",0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,SI,Sector,Electricity by wind,203885.77233999435
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,SK,Sector,Electricity by Geothermal,0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,SK,Sector,Electricity by biomass and waste,582027.043146851
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,SK,Sector,Electricity by coal,5481678.246219951
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,SK,Sector,Electricity by gas,2098178.8659402416
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,SK,Sector,Electricity by hydro,350242.65397082845
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,SK,Sector,Electricity by nuclear,380561.45149109396
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,SK,Sector,Electricity by petroleum and other oil derivatives,10383918.970993625
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,SK,Sector,Electricity by solar photovoltaic,362557.3837138093
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,SK,Sector,Electricity by solar thermal,0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,SK,Sector,"Electricity by tide, wave, ocean",0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,SK,Sector,Electricity by wind,507883.83964738704
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,TR,Sector,Electricity by Geothermal,113786.2316840831
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,TR,Sector,Electricity by biomass and waste,128223.10370053213
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,TR,Sector,Electricity by coal,22165289.3320143
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,TR,Sector,Electricity by gas,10351260.074678848
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,TR,Sector,Electricity by hydro,253290.03700351255
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,TR,Sector,Electricity by nuclear,0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,TR,Sector,Electricity by petroleum and other oil derivatives,3690610.4949395517
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,TR,Sector,Electricity by solar photovoltaic,555948.1209438228
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,TR,Sector,Electricity by solar thermal,0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,TR,Sector,"Electricity by tide, wave, ocean",0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,TR,Sector,Electricity by wind,405480.99777973926
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,TW,Sector,Electricity by Geothermal,0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,TW,Sector,Electricity by biomass and waste,856456.1291249064
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,TW,Sector,Electricity by coal,54452615.776564054
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,TW,Sector,Electricity by gas,31189159.474845923
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,TW,Sector,Electricity by hydro,262903.51408492523
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,TW,Sector,Electricity by nuclear,72922.81770351538
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,TW,Sector,Electricity by petroleum and other oil derivatives,60649735.10855151
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,TW,Sector,Electricity by solar photovoltaic,54998.41055854023
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,TW,Sector,Electricity by solar thermal,0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,TW,Sector,"Electricity by tide, wave, ocean",0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,TW,Sector,Electricity by wind,198950.57352212744
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,US,Sector,Electricity by Geothermal,214630.58249433647
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,US,Sector,Electricity by biomass and waste,4794785.4505051635
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,US,Sector,Electricity by coal,26163783.501086254
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,US,Sector,Electricity by gas,8421056.880016869
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,US,Sector,Electricity by hydro,280836.2022790505
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,US,Sector,Electricity by nuclear,144886.2707998527
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,US,Sector,Electricity by petroleum and other oil derivatives,12885379.762390424
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,US,Sector,Electricity by solar photovoltaic,194220.41859034932
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,US,Sector,Electricity by solar thermal,131560.58985886196
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,US,Sector,"Electricity by tide, wave, ocean",0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,US,Sector,Electricity by wind,219636.04572905294
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,WA,Sector,Electricity by Geothermal,200024.47290944992
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,WA,Sector,Electricity by biomass and waste,26763710.90140977
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,WA,Sector,Electricity by coal,33943524.03125653
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,WA,Sector,Electricity by gas,15186496.281971684
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,WA,Sector,Electricity by hydro,209628.34556879575
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,WA,Sector,Electricity by nuclear,213783.73983106972
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,WA,Sector,Electricity by petroleum and other oil derivatives,28030951.067422714
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,WA,Sector,Electricity by solar photovoltaic,147470.3685472414
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,WA,Sector,Electricity by solar thermal,0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,WA,Sector,"Electricity by tide, wave, ocean",0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,WA,Sector,Electricity by wind,114189.60033774731
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,WE,Sector,Electricity by Geothermal,695291.7367675697
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,WE,Sector,Electricity by biomass and waste,2390943.4904604894
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,WE,Sector,Electricity by coal,93115287.69654603
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,WE,Sector,Electricity by gas,34200887.45524459
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,WE,Sector,Electricity by hydro,390701.62766808533
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,WE,Sector,Electricity by nuclear,250054.98733240494
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,WE,Sector,Electricity by petroleum and other oil derivatives,9283680.322711106
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,WE,Sector,Electricity by solar photovoltaic,772617.3550513448
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,WE,Sector,Electricity by solar thermal,0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,WE,Sector,"Electricity by tide, wave, ocean",0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,WE,Sector,Electricity by wind,103746.78468032622
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,WF,Sector,Electricity by Geothermal,301241.4902837612
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,WF,Sector,Electricity by biomass and waste,10106861.451510392
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,WF,Sector,Electricity by coal,13253601.65259727
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,WF,Sector,Electricity by gas,7390208.242649861
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,WF,Sector,Electricity by hydro,186754.59314629837
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,WF,Sector,Electricity by nuclear,0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,WF,Sector,Electricity by petroleum and other oil derivatives,11805085.960030833
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,WF,Sector,Electricity by solar photovoltaic,161775.27991457653
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,WF,Sector,Electricity by solar thermal,196467.3720654821
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,WF,Sector,"Electricity by tide, wave, ocean",0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,WF,Sector,Electricity by wind,329137.03897700214
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,WL,Sector,Electricity by Geothermal,182279.81638609836
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,WL,Sector,Electricity by biomass and waste,2637059.4798320644
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,WL,Sector,Electricity by coal,19396720.58665866
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,WL,Sector,Electricity by gas,13578966.470878512
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,WL,Sector,Electricity by hydro,147418.48574913954
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,WL,Sector,Electricity by nuclear,416646.4697256884
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,WL,Sector,Electricity by petroleum and other oil derivatives,14869293.12467275
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,WL,Sector,Electricity by solar photovoltaic,398155.90998013446
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,WL,Sector,Electricity by solar thermal,0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,WL,Sector,"Electricity by tide, wave, ocean",0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,WL,Sector,Electricity by wind,230640.3992577694
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,WM,Sector,Electricity by Geothermal,414794.2505673253
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,WM,Sector,Electricity by biomass and waste,1947381.8925301044
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,WM,Sector,Electricity by coal,25844887.873624653
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,WM,Sector,Electricity by gas,16308483.075561289
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,WM,Sector,Electricity by hydro,194245.65399658633
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,WM,Sector,Electricity by nuclear,169650.6187409078
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,WM,Sector,Electricity by petroleum and other oil derivatives,25291010.92964165
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,WM,Sector,Electricity by solar photovoltaic,225625.3361548239
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,WM,Sector,Electricity by solar thermal,45300.5066378577
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,WM,Sector,"Electricity by tide, wave, ocean",0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,WM,Sector,Electricity by wind,265033.09923547204
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,ZA,Sector,Electricity by Geothermal,0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,ZA,Sector,Electricity by biomass and waste,0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,ZA,Sector,Electricity by coal,24172136.281071782
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,ZA,Sector,Electricity by gas,0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,ZA,Sector,Electricity by hydro,278950.72513023706
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,ZA,Sector,Electricity by nuclear,171989.5143308681
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,ZA,Sector,Electricity by petroleum and other oil derivatives,5322699.761790421
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,ZA,Sector,Electricity by solar photovoltaic,68414.84622872532
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,ZA,Sector,Electricity by solar thermal,303254.06874769647
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,ZA,Sector,"Electricity by tide, wave, ocean",0.0
+EXIOBASE,3.10.1,IOT,2017,pxp,Footprint,GHG,kg CO2eq/M.EUR,ZA,Sector,Electricity by wind,80233.31451735759

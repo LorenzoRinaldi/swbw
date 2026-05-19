@@ -1,0 +1,1177 @@
+Database,Version,Table,Year,System,Flow,Satellite account,Unit,Region,Sector,Item,Value
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,AT,Sector,Production of electricity by Geothermal,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,AT,Sector,Production of electricity by biomass and waste,6706355.180481319
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,AT,Sector,Production of electricity by coal,9592964.269056186
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,AT,Sector,Production of electricity by gas,3805244.990827883
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,AT,Sector,Production of electricity by hydro,60.568855602621234
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,AT,Sector,Production of electricity by nuclear,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,AT,Sector,Production of electricity by petroleum and other oil derivatives,341842.57552999083
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,AT,Sector,Production of electricity by solar photovoltaic,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,AT,Sector,Production of electricity by solar thermal,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,AT,Sector,"Production of electricity by tide, wave, ocean",0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,AT,Sector,Production of electricity by wind,18.517035253088082
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,AT,Sector,Production of electricity nec,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,AU,Sector,Production of electricity by Geothermal,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,AU,Sector,Production of electricity by biomass and waste,311372.59570555174
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,AU,Sector,Production of electricity by coal,14846760.115575608
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,AU,Sector,Production of electricity by gas,5856132.186239524
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,AU,Sector,Production of electricity by hydro,5978.96494988258
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,AU,Sector,Production of electricity by nuclear,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,AU,Sector,Production of electricity by petroleum and other oil derivatives,8473491.18740232
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,AU,Sector,Production of electricity by solar photovoltaic,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,AU,Sector,Production of electricity by solar thermal,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,AU,Sector,"Production of electricity by tide, wave, ocean",0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,AU,Sector,Production of electricity by wind,1789.8722226365135
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,AU,Sector,Production of electricity nec,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,BE,Sector,Production of electricity by Geothermal,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,BE,Sector,Production of electricity by biomass and waste,16793875.703456417
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,BE,Sector,Production of electricity by coal,1.9933238630993
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,BE,Sector,Production of electricity by gas,6556107.528715968
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,BE,Sector,Production of electricity by hydro,14.981351816223006
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,BE,Sector,Production of electricity by nuclear,2.8812616771279562
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,BE,Sector,Production of electricity by petroleum and other oil derivatives,1653395.4736894856
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,BE,Sector,Production of electricity by solar photovoltaic,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,BE,Sector,Production of electricity by solar thermal,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,BE,Sector,"Production of electricity by tide, wave, ocean",0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,BE,Sector,Production of electricity by wind,2.4790395082489844
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,BE,Sector,Production of electricity nec,0.9263735259594741
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,BG,Sector,Production of electricity by Geothermal,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,BG,Sector,Production of electricity by biomass and waste,1896048.979569283
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,BG,Sector,Production of electricity by coal,15266460.472082978
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,BG,Sector,Production of electricity by gas,9406137.510664545
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,BG,Sector,Production of electricity by hydro,421.2192141358815
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,BG,Sector,Production of electricity by nuclear,159.24773519940763
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,BG,Sector,Production of electricity by petroleum and other oil derivatives,1509172.9625182522
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,BG,Sector,Production of electricity by solar photovoltaic,203.897536590443
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,BG,Sector,Production of electricity by solar thermal,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,BG,Sector,"Production of electricity by tide, wave, ocean",0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,BG,Sector,Production of electricity by wind,172.06315983338573
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,BG,Sector,Production of electricity nec,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,BR,Sector,Production of electricity by Geothermal,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,BR,Sector,Production of electricity by biomass and waste,124807.87133835186
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,BR,Sector,Production of electricity by coal,15887241.167578774
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,BR,Sector,Production of electricity by gas,6676366.938884125
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,BR,Sector,Production of electricity by hydro,122.28441417786144
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,BR,Sector,Production of electricity by nuclear,19.32255852447272
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,BR,Sector,Production of electricity by petroleum and other oil derivatives,8284723.678056746
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,BR,Sector,Production of electricity by solar photovoltaic,1813.9614725374145
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,BR,Sector,Production of electricity by solar thermal,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,BR,Sector,"Production of electricity by tide, wave, ocean",0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,BR,Sector,Production of electricity by wind,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,BR,Sector,Production of electricity nec,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,CA,Sector,Production of electricity by Geothermal,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,CA,Sector,Production of electricity by biomass and waste,5608994.050982686
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,CA,Sector,Production of electricity by coal,30888772.12810381
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,CA,Sector,Production of electricity by gas,10822820.151530331
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,CA,Sector,Production of electricity by hydro,7153.931991973697
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,CA,Sector,Production of electricity by nuclear,5524.980684625543
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,CA,Sector,Production of electricity by petroleum and other oil derivatives,28170019.20016382
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,CA,Sector,Production of electricity by solar photovoltaic,5459.083789659469
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,CA,Sector,Production of electricity by solar thermal,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,CA,Sector,"Production of electricity by tide, wave, ocean",0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,CA,Sector,Production of electricity by wind,5801.750022466382
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,CA,Sector,Production of electricity nec,5823.966883221598
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,CH,Sector,Production of electricity by Geothermal,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,CH,Sector,Production of electricity by biomass and waste,1040186.3401637943
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,CH,Sector,Production of electricity by coal,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,CH,Sector,Production of electricity by gas,4594086.017494188
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,CH,Sector,Production of electricity by hydro,8465.207734687714
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,CH,Sector,Production of electricity by nuclear,2611.546288287029
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,CH,Sector,Production of electricity by petroleum and other oil derivatives,21169531.565045435
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,CH,Sector,Production of electricity by solar photovoltaic,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,CH,Sector,Production of electricity by solar thermal,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,CH,Sector,"Production of electricity by tide, wave, ocean",0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,CH,Sector,Production of electricity by wind,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,CH,Sector,Production of electricity nec,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,CN,Sector,Production of electricity by Geothermal,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,CN,Sector,Production of electricity by biomass and waste,12103.374968635864
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,CN,Sector,Production of electricity by coal,19725366.56275292
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,CN,Sector,Production of electricity by gas,7286024.920200911
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,CN,Sector,Production of electricity by hydro,77302.13625693985
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,CN,Sector,Production of electricity by nuclear,14285.624978677093
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,CN,Sector,Production of electricity by petroleum and other oil derivatives,3449981.678880773
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,CN,Sector,Production of electricity by solar photovoltaic,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,CN,Sector,Production of electricity by solar thermal,5959.150366917533
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,CN,Sector,"Production of electricity by tide, wave, ocean",1795.7596657726194
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,CN,Sector,Production of electricity by wind,9692.027014213905
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,CN,Sector,Production of electricity nec,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,CY,Sector,Production of electricity by Geothermal,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,CY,Sector,Production of electricity by biomass and waste,5261.500573263593
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,CY,Sector,Production of electricity by coal,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,CY,Sector,Production of electricity by gas,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,CY,Sector,Production of electricity by hydro,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,CY,Sector,Production of electricity by nuclear,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,CY,Sector,Production of electricity by petroleum and other oil derivatives,7293635.6722620865
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,CY,Sector,Production of electricity by solar photovoltaic,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,CY,Sector,Production of electricity by solar thermal,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,CY,Sector,"Production of electricity by tide, wave, ocean",0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,CY,Sector,Production of electricity by wind,1.0358860282050633
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,CY,Sector,Production of electricity nec,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,CZ,Sector,Production of electricity by Geothermal,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,CZ,Sector,Production of electricity by biomass and waste,832104.0863016796
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,CZ,Sector,Production of electricity by coal,19260720.156755213
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,CZ,Sector,Production of electricity by gas,7616969.944070299
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,CZ,Sector,Production of electricity by hydro,306.6535360693878
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,CZ,Sector,Production of electricity by nuclear,301.7555045433233
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,CZ,Sector,Production of electricity by petroleum and other oil derivatives,2460465.9207498864
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,CZ,Sector,Production of electricity by solar photovoltaic,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,CZ,Sector,Production of electricity by solar thermal,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,CZ,Sector,"Production of electricity by tide, wave, ocean",0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,CZ,Sector,Production of electricity by wind,331.56279883932143
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,CZ,Sector,Production of electricity nec,226.57363146073695
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,DE,Sector,Production of electricity by Geothermal,353.364601097353
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,DE,Sector,Production of electricity by biomass and waste,3755154.1803528117
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,DE,Sector,Production of electricity by coal,14096250.611954648
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,DE,Sector,Production of electricity by gas,4526786.721155995
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,DE,Sector,Production of electricity by hydro,6893.746312925117
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,DE,Sector,Production of electricity by nuclear,6009.237392239846
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,DE,Sector,Production of electricity by petroleum and other oil derivatives,2415979.699928595
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,DE,Sector,Production of electricity by solar photovoltaic,5703.134828620311
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,DE,Sector,Production of electricity by solar thermal,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,DE,Sector,"Production of electricity by tide, wave, ocean",0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,DE,Sector,Production of electricity by wind,6104.29324326292
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,DE,Sector,Production of electricity nec,8833.674061261858
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,DK,Sector,Production of electricity by Geothermal,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,DK,Sector,Production of electricity by biomass and waste,4546641.104203787
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,DK,Sector,Production of electricity by coal,22918620.769332018
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,DK,Sector,Production of electricity by gas,1946303.649321039
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,DK,Sector,Production of electricity by hydro,1582.1631012714874
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,DK,Sector,Production of electricity by nuclear,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,DK,Sector,Production of electricity by petroleum and other oil derivatives,2666024.876131629
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,DK,Sector,Production of electricity by solar photovoltaic,1662.6659381921368
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,DK,Sector,Production of electricity by solar thermal,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,DK,Sector,"Production of electricity by tide, wave, ocean",0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,DK,Sector,Production of electricity by wind,1603.7032290189777
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,DK,Sector,Production of electricity nec,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,EE,Sector,Production of electricity by Geothermal,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,EE,Sector,Production of electricity by biomass and waste,10362126.560564626
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,EE,Sector,Production of electricity by coal,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,EE,Sector,Production of electricity by gas,2457248.64873884
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,EE,Sector,Production of electricity by hydro,53.98598425188321
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,EE,Sector,Production of electricity by nuclear,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,EE,Sector,Production of electricity by petroleum and other oil derivatives,4045694.198801776
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,EE,Sector,Production of electricity by solar photovoltaic,34.664846179422405
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,EE,Sector,Production of electricity by solar thermal,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,EE,Sector,"Production of electricity by tide, wave, ocean",0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,EE,Sector,Production of electricity by wind,45.065961602556776
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,EE,Sector,Production of electricity nec,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,ES,Sector,Production of electricity by Geothermal,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,ES,Sector,Production of electricity by biomass and waste,4382293.911638671
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,ES,Sector,Production of electricity by coal,19188331.81389627
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,ES,Sector,Production of electricity by gas,5965874.608981255
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,ES,Sector,Production of electricity by hydro,3221.0322843712233
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,ES,Sector,Production of electricity by nuclear,2037.5981800330599
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,ES,Sector,Production of electricity by petroleum and other oil derivatives,14722441.324220741
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,ES,Sector,Production of electricity by solar photovoltaic,1802.199178461985
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,ES,Sector,Production of electricity by solar thermal,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,ES,Sector,"Production of electricity by tide, wave, ocean",73.90228964928855
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,ES,Sector,Production of electricity by wind,1981.7282317907082
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,ES,Sector,Production of electricity nec,1553.2541051213773
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,FI,Sector,Production of electricity by Geothermal,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,FI,Sector,Production of electricity by biomass and waste,6710793.147607519
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,FI,Sector,Production of electricity by coal,3221406.6697795843
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,FI,Sector,Production of electricity by gas,12298980.424065344
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,FI,Sector,Production of electricity by hydro,658.5874556999183
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,FI,Sector,Production of electricity by nuclear,230.2392214313756
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,FI,Sector,Production of electricity by petroleum and other oil derivatives,5615114.569467476
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,FI,Sector,Production of electricity by solar photovoltaic,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,FI,Sector,Production of electricity by solar thermal,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,FI,Sector,"Production of electricity by tide, wave, ocean",0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,FI,Sector,Production of electricity by wind,389.4520785104552
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,FI,Sector,Production of electricity nec,463.15856359014714
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,FR,Sector,Production of electricity by Geothermal,0.40924139939722337
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,FR,Sector,Production of electricity by biomass and waste,1547138.5254213554
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,FR,Sector,Production of electricity by coal,15568717.38552734
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,FR,Sector,Production of electricity by gas,6325694.074966015
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,FR,Sector,Production of electricity by hydro,14.146933122862194
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,FR,Sector,Production of electricity by nuclear,1.770917724914163
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,FR,Sector,Production of electricity by petroleum and other oil derivatives,11085967.791778265
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,FR,Sector,Production of electricity by solar photovoltaic,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,FR,Sector,Production of electricity by solar thermal,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,FR,Sector,"Production of electricity by tide, wave, ocean",0.09848455118207634
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,FR,Sector,Production of electricity by wind,1.810793874875631
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,FR,Sector,Production of electricity nec,0.08227561529363403
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,GB,Sector,Production of electricity by Geothermal,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,GB,Sector,Production of electricity by biomass and waste,2964902.0104779275
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,GB,Sector,Production of electricity by coal,12898743.308973351
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,GB,Sector,Production of electricity by gas,3525739.949526337
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,GB,Sector,Production of electricity by hydro,3.8366673179239323
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,GB,Sector,Production of electricity by nuclear,2.8135291530711766
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,GB,Sector,Production of electricity by petroleum and other oil derivatives,3094746.171878032
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,GB,Sector,Production of electricity by solar photovoltaic,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,GB,Sector,Production of electricity by solar thermal,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,GB,Sector,"Production of electricity by tide, wave, ocean",0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,GB,Sector,Production of electricity by wind,2.8047070139689034
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,GB,Sector,Production of electricity nec,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,GR,Sector,Production of electricity by Geothermal,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,GR,Sector,Production of electricity by biomass and waste,117132.61158939864
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,GR,Sector,Production of electricity by coal,26207337.7758606
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,GR,Sector,Production of electricity by gas,8724998.704174336
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,GR,Sector,Production of electricity by hydro,1993.5905766091928
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,GR,Sector,Production of electricity by nuclear,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,GR,Sector,Production of electricity by petroleum and other oil derivatives,16922124.329090793
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,GR,Sector,Production of electricity by solar photovoltaic,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,GR,Sector,Production of electricity by solar thermal,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,GR,Sector,"Production of electricity by tide, wave, ocean",0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,GR,Sector,Production of electricity by wind,449.9353128719298
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,GR,Sector,Production of electricity nec,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,HR,Sector,Production of electricity by Geothermal,467579.27065397456
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,HR,Sector,Production of electricity by biomass and waste,672360.7691214458
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,HR,Sector,Production of electricity by coal,9654226.8142604
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,HR,Sector,Production of electricity by gas,4675757.649908712
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,HR,Sector,Production of electricity by hydro,29718.520535569
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,HR,Sector,Production of electricity by nuclear,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,HR,Sector,Production of electricity by petroleum and other oil derivatives,2648886.5645117285
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,HR,Sector,Production of electricity by solar photovoltaic,4113203.5905751116
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,HR,Sector,Production of electricity by solar thermal,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,HR,Sector,"Production of electricity by tide, wave, ocean",0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,HR,Sector,Production of electricity by wind,2714686.883617281
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,HR,Sector,Production of electricity nec,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,HU,Sector,Production of electricity by Geothermal,25.84170187297522
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,HU,Sector,Production of electricity by biomass and waste,2259336.394843017
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,HU,Sector,Production of electricity by coal,10892953.18566116
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,HU,Sector,Production of electricity by gas,4567770.144120184
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,HU,Sector,Production of electricity by hydro,395.40467936266197
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,HU,Sector,Production of electricity by nuclear,171.20980039442105
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,HU,Sector,Production of electricity by petroleum and other oil derivatives,1074748.268345168
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,HU,Sector,Production of electricity by solar photovoltaic,509.89751944832193
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,HU,Sector,Production of electricity by solar thermal,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,HU,Sector,"Production of electricity by tide, wave, ocean",0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,HU,Sector,Production of electricity by wind,160.72880124962143
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,HU,Sector,Production of electricity nec,32.04275943623435
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,ID,Sector,Production of electricity by Geothermal,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,ID,Sector,Production of electricity by biomass and waste,86465.3855936273
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,ID,Sector,Production of electricity by coal,15003428.756696101
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,ID,Sector,Production of electricity by gas,11642422.669150919
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,ID,Sector,Production of electricity by hydro,28526.15808534204
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,ID,Sector,Production of electricity by nuclear,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,ID,Sector,Production of electricity by petroleum and other oil derivatives,16955717.856516432
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,ID,Sector,Production of electricity by solar photovoltaic,7588.532708523461
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,ID,Sector,Production of electricity by solar thermal,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,ID,Sector,"Production of electricity by tide, wave, ocean",0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,ID,Sector,Production of electricity by wind,6202.46017075553
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,ID,Sector,Production of electricity nec,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,IE,Sector,Production of electricity by Geothermal,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,IE,Sector,Production of electricity by biomass and waste,17432876.822632194
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,IE,Sector,Production of electricity by coal,16716668.86968796
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,IE,Sector,Production of electricity by gas,4953744.657357072
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,IE,Sector,Production of electricity by hydro,17.169767137285614
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,IE,Sector,Production of electricity by nuclear,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,IE,Sector,Production of electricity by petroleum and other oil derivatives,8062978.725710523
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,IE,Sector,Production of electricity by solar photovoltaic,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,IE,Sector,Production of electricity by solar thermal,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,IE,Sector,"Production of electricity by tide, wave, ocean",0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,IE,Sector,Production of electricity by wind,13.319509464037681
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,IE,Sector,Production of electricity nec,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,IN,Sector,Production of electricity by Geothermal,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,IN,Sector,Production of electricity by biomass and waste,36551.889909443904
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,IN,Sector,Production of electricity by coal,40468826.87358494
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,IN,Sector,Production of electricity by gas,16113646.086484687
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,IN,Sector,Production of electricity by hydro,88469.0112981007
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,IN,Sector,Production of electricity by nuclear,17193.324005940758
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,IN,Sector,Production of electricity by petroleum and other oil derivatives,14160096.522173593
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,IN,Sector,Production of electricity by solar photovoltaic,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,IN,Sector,Production of electricity by solar thermal,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,IN,Sector,"Production of electricity by tide, wave, ocean",0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,IN,Sector,Production of electricity by wind,142435.5574631074
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,IN,Sector,Production of electricity nec,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,IT,Sector,Production of electricity by Geothermal,1.2885834164450083
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,IT,Sector,Production of electricity by biomass and waste,2014560.9754419995
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,IT,Sector,Production of electricity by coal,7319080.72822619
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,IT,Sector,Production of electricity by gas,3222268.844522585
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,IT,Sector,Production of electricity by hydro,26.8897425090444
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,IT,Sector,Production of electricity by nuclear,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,IT,Sector,Production of electricity by petroleum and other oil derivatives,6364667.126448901
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,IT,Sector,Production of electricity by solar photovoltaic,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,IT,Sector,Production of electricity by solar thermal,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,IT,Sector,"Production of electricity by tide, wave, ocean",0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,IT,Sector,Production of electricity by wind,4.559524994219932
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,IT,Sector,Production of electricity nec,2.2180804030235217
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,JP,Sector,Production of electricity by Geothermal,0.11788073384349063
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,JP,Sector,Production of electricity by biomass and waste,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,JP,Sector,Production of electricity by coal,13849724.865377944
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,JP,Sector,Production of electricity by gas,9501510.01445278
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,JP,Sector,Production of electricity by hydro,0.09388348310463741
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,JP,Sector,Production of electricity by nuclear,0.08907886648803068
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,JP,Sector,Production of electricity by petroleum and other oil derivatives,10038983.010247665
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,JP,Sector,Production of electricity by solar photovoltaic,0.07149218386649955
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,JP,Sector,Production of electricity by solar thermal,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,JP,Sector,"Production of electricity by tide, wave, ocean",0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,JP,Sector,Production of electricity by wind,0.11591898177999967
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,JP,Sector,Production of electricity nec,0.10304965950200996
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,KR,Sector,Production of electricity by Geothermal,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,KR,Sector,Production of electricity by biomass and waste,1497519.8958683861
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,KR,Sector,Production of electricity by coal,27203423.95936561
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,KR,Sector,Production of electricity by gas,17125370.526274383
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,KR,Sector,Production of electricity by hydro,7629.5322278785225
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,KR,Sector,Production of electricity by nuclear,3116.6382109237297
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,KR,Sector,Production of electricity by petroleum and other oil derivatives,16024402.989469161
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,KR,Sector,Production of electricity by solar photovoltaic,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,KR,Sector,Production of electricity by solar thermal,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,KR,Sector,"Production of electricity by tide, wave, ocean",102.34581657478853
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,KR,Sector,Production of electricity by wind,918.4385856127782
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,KR,Sector,Production of electricity nec,19.28855462271022
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,LT,Sector,Production of electricity by Geothermal,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,LT,Sector,Production of electricity by biomass and waste,9686011.16648068
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,LT,Sector,Production of electricity by coal,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,LT,Sector,Production of electricity by gas,2803403.6534762066
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,LT,Sector,Production of electricity by hydro,3459.8120799881112
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,LT,Sector,Production of electricity by nuclear,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,LT,Sector,Production of electricity by petroleum and other oil derivatives,428132.6403046532
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,LT,Sector,Production of electricity by solar photovoltaic,4579.801567226852
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,LT,Sector,Production of electricity by solar thermal,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,LT,Sector,"Production of electricity by tide, wave, ocean",0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,LT,Sector,Production of electricity by wind,1035.1494362954725
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,LT,Sector,Production of electricity nec,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,LU,Sector,Production of electricity by Geothermal,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,LU,Sector,Production of electricity by biomass and waste,5583356.551574265
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,LU,Sector,Production of electricity by coal,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,LU,Sector,Production of electricity by gas,10898305.521187
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,LU,Sector,Production of electricity by hydro,0.2135562505776174
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,LU,Sector,Production of electricity by nuclear,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,LU,Sector,Production of electricity by petroleum and other oil derivatives,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,LU,Sector,Production of electricity by solar photovoltaic,0.1582941977562326
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,LU,Sector,Production of electricity by solar thermal,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,LU,Sector,"Production of electricity by tide, wave, ocean",0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,LU,Sector,Production of electricity by wind,0.16933001353071225
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,LU,Sector,Production of electricity nec,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,LV,Sector,Production of electricity by Geothermal,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,LV,Sector,Production of electricity by biomass and waste,1154913.5633906242
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,LV,Sector,Production of electricity by coal,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,LV,Sector,Production of electricity by gas,4335640.345124859
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,LV,Sector,Production of electricity by hydro,0.6717355752051649
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,LV,Sector,Production of electricity by nuclear,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,LV,Sector,Production of electricity by petroleum and other oil derivatives,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,LV,Sector,Production of electricity by solar photovoltaic,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,LV,Sector,Production of electricity by solar thermal,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,LV,Sector,"Production of electricity by tide, wave, ocean",0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,LV,Sector,Production of electricity by wind,0.2740191611140462
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,LV,Sector,Production of electricity nec,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,MT,Sector,Production of electricity by Geothermal,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,MT,Sector,Production of electricity by biomass and waste,47.43002516722325
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,MT,Sector,Production of electricity by coal,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,MT,Sector,Production of electricity by gas,15712532.972890038
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,MT,Sector,Production of electricity by hydro,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,MT,Sector,Production of electricity by nuclear,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,MT,Sector,Production of electricity by petroleum and other oil derivatives,62487513.860564455
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,MT,Sector,Production of electricity by solar photovoltaic,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,MT,Sector,Production of electricity by solar thermal,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,MT,Sector,"Production of electricity by tide, wave, ocean",0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,MT,Sector,Production of electricity by wind,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,MT,Sector,Production of electricity nec,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,MX,Sector,Production of electricity by Geothermal,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,MX,Sector,Production of electricity by biomass and waste,235.95434066722052
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,MX,Sector,Production of electricity by coal,21077011.569702443
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,MX,Sector,Production of electricity by gas,9670097.681489695
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,MX,Sector,Production of electricity by hydro,612.2460071739774
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,MX,Sector,Production of electricity by nuclear,111.31476670291241
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,MX,Sector,Production of electricity by petroleum and other oil derivatives,12557086.24589776
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,MX,Sector,Production of electricity by solar photovoltaic,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,MX,Sector,Production of electricity by solar thermal,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,MX,Sector,"Production of electricity by tide, wave, ocean",0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,MX,Sector,Production of electricity by wind,74.82393349220943
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,MX,Sector,Production of electricity nec,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,NL,Sector,Production of electricity by Geothermal,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,NL,Sector,Production of electricity by biomass and waste,3313958.644037169
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,NL,Sector,Production of electricity by coal,22595506.950070236
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,NL,Sector,Production of electricity by gas,8397719.941482253
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,NL,Sector,Production of electricity by hydro,1629.452170352556
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,NL,Sector,Production of electricity by nuclear,842.071735596447
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,NL,Sector,Production of electricity by petroleum and other oil derivatives,6409891.945032483
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,NL,Sector,Production of electricity by solar photovoltaic,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,NL,Sector,Production of electricity by solar thermal,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,NL,Sector,"Production of electricity by tide, wave, ocean",0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,NL,Sector,Production of electricity by wind,942.4961011202845
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,NL,Sector,Production of electricity nec,948.0298863336743
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,NO,Sector,Production of electricity by Geothermal,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,NO,Sector,Production of electricity by biomass and waste,11805795.15814777
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,NO,Sector,Production of electricity by coal,1762520.9734962245
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,NO,Sector,Production of electricity by gas,2549329.4877943643
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,NO,Sector,Production of electricity by hydro,2.708829201967564
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,NO,Sector,Production of electricity by nuclear,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,NO,Sector,Production of electricity by petroleum and other oil derivatives,512522.5235754995
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,NO,Sector,Production of electricity by solar photovoltaic,0.1990987508459797
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,NO,Sector,Production of electricity by solar thermal,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,NO,Sector,"Production of electricity by tide, wave, ocean",0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,NO,Sector,Production of electricity by wind,1.4575430042999065
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,NO,Sector,Production of electricity nec,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,PL,Sector,Production of electricity by Geothermal,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,PL,Sector,Production of electricity by biomass and waste,4567812.245776131
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,PL,Sector,Production of electricity by coal,15159721.209500568
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,PL,Sector,Production of electricity by gas,5744317.425417118
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,PL,Sector,Production of electricity by hydro,1002.7278990283061
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,PL,Sector,Production of electricity by nuclear,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,PL,Sector,Production of electricity by petroleum and other oil derivatives,1607076.798988413
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,PL,Sector,Production of electricity by solar photovoltaic,920.3314255164426
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,PL,Sector,Production of electricity by solar thermal,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,PL,Sector,"Production of electricity by tide, wave, ocean",0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,PL,Sector,Production of electricity by wind,565.1113130724717
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,PL,Sector,Production of electricity nec,431.22348986249995
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,PT,Sector,Production of electricity by Geothermal,7.563578106098974
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,PT,Sector,Production of electricity by biomass and waste,2528743.6259933594
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,PT,Sector,Production of electricity by coal,12792557.733645594
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,PT,Sector,Production of electricity by gas,3528863.2738380344
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,PT,Sector,Production of electricity by hydro,41.85286313997348
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,PT,Sector,Production of electricity by nuclear,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,PT,Sector,Production of electricity by petroleum and other oil derivatives,7078399.78403528
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,PT,Sector,Production of electricity by solar photovoltaic,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,PT,Sector,Production of electricity by solar thermal,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,PT,Sector,"Production of electricity by tide, wave, ocean",0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,PT,Sector,Production of electricity by wind,11.498460636605971
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,PT,Sector,Production of electricity nec,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,RO,Sector,Production of electricity by Geothermal,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,RO,Sector,Production of electricity by biomass and waste,983589.2182432702
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,RO,Sector,Production of electricity by coal,13701261.91543303
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,RO,Sector,Production of electricity by gas,3327462.9807312354
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,RO,Sector,Production of electricity by hydro,1340.9970132639733
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,RO,Sector,Production of electricity by nuclear,197.3180263098434
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,RO,Sector,Production of electricity by petroleum and other oil derivatives,2409025.4174081413
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,RO,Sector,Production of electricity by solar photovoltaic,2697.052366644476
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,RO,Sector,Production of electricity by solar thermal,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,RO,Sector,"Production of electricity by tide, wave, ocean",0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,RO,Sector,Production of electricity by wind,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,RO,Sector,Production of electricity nec,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,RU,Sector,Production of electricity by Geothermal,99.76205490515623
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,RU,Sector,Production of electricity by biomass and waste,3721554.295727749
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,RU,Sector,Production of electricity by coal,39704962.83495197
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,RU,Sector,Production of electricity by gas,802446.854017348
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,RU,Sector,Production of electricity by hydro,2262.6740234036697
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,RU,Sector,Production of electricity by nuclear,400.9654558833086
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,RU,Sector,Production of electricity by petroleum and other oil derivatives,19972562.710874908
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,RU,Sector,Production of electricity by solar photovoltaic,1365.9667470223117
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,RU,Sector,Production of electricity by solar thermal,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,RU,Sector,"Production of electricity by tide, wave, ocean",0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,RU,Sector,Production of electricity by wind,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,RU,Sector,Production of electricity nec,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,SE,Sector,Production of electricity by Geothermal,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,SE,Sector,Production of electricity by biomass and waste,41346341.37457174
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,SE,Sector,Production of electricity by coal,175403.43165625032
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,SE,Sector,Production of electricity by gas,660439.2760021018
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,SE,Sector,Production of electricity by hydro,104.19550516785607
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,SE,Sector,Production of electricity by nuclear,49.65843302166736
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,SE,Sector,Production of electricity by petroleum and other oil derivatives,3020563.6503987694
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,SE,Sector,Production of electricity by solar photovoltaic,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,SE,Sector,Production of electricity by solar thermal,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,SE,Sector,"Production of electricity by tide, wave, ocean",0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,SE,Sector,Production of electricity by wind,47.62044526049538
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,SE,Sector,Production of electricity nec,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,SI,Sector,Production of electricity by Geothermal,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,SI,Sector,Production of electricity by biomass and waste,2268357.51715307
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,SI,Sector,Production of electricity by coal,14411479.902776508
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,SI,Sector,Production of electricity by gas,4114701.3718037545
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,SI,Sector,Production of electricity by hydro,3.98239579738283
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,SI,Sector,Production of electricity by nuclear,1.2275944125896727
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,SI,Sector,Production of electricity by petroleum and other oil derivatives,2524962.196306871
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,SI,Sector,Production of electricity by solar photovoltaic,0.2767493348060011
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,SI,Sector,Production of electricity by solar thermal,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,SI,Sector,"Production of electricity by tide, wave, ocean",0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,SI,Sector,Production of electricity by wind,0.3465240059712484
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,SI,Sector,Production of electricity nec,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,SK,Sector,Production of electricity by Geothermal,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,SK,Sector,Production of electricity by biomass and waste,866960.5751421875
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,SK,Sector,Production of electricity by coal,21618818.695333548
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,SK,Sector,Production of electricity by gas,6360915.408445052
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,SK,Sector,Production of electricity by hydro,112.97753808991155
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,SK,Sector,Production of electricity by nuclear,74.97951752215523
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,SK,Sector,Production of electricity by petroleum and other oil derivatives,363699.01889095845
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,SK,Sector,Production of electricity by solar photovoltaic,26.241565532542488
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,SK,Sector,Production of electricity by solar thermal,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,SK,Sector,"Production of electricity by tide, wave, ocean",0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,SK,Sector,Production of electricity by wind,69.89642883752687
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,SK,Sector,Production of electricity nec,72.76573224610921
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,TR,Sector,Production of electricity by Geothermal,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,TR,Sector,Production of electricity by biomass and waste,1968986.9652566158
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,TR,Sector,Production of electricity by coal,56807956.658688314
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,TR,Sector,Production of electricity by gas,18144152.82847174
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,TR,Sector,Production of electricity by hydro,18607.816149606268
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,TR,Sector,Production of electricity by nuclear,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,TR,Sector,Production of electricity by petroleum and other oil derivatives,1128738.3580560097
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,TR,Sector,Production of electricity by solar photovoltaic,40846.143662759554
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,TR,Sector,Production of electricity by solar thermal,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,TR,Sector,"Production of electricity by tide, wave, ocean",0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,TR,Sector,Production of electricity by wind,2685.4841395336484
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,TR,Sector,Production of electricity nec,606.6767461828268
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,TW,Sector,Production of electricity by Geothermal,594.4654254110707
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,TW,Sector,Production of electricity by biomass and waste,2132636.461967376
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,TW,Sector,Production of electricity by coal,44288882.391620204
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,TW,Sector,Production of electricity by gas,26981812.983536266
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,TW,Sector,Production of electricity by hydro,32515.696523758594
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,TW,Sector,Production of electricity by nuclear,4182.877877568801
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,TW,Sector,Production of electricity by petroleum and other oil derivatives,40858061.04986149
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,TW,Sector,Production of electricity by solar photovoltaic,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,TW,Sector,Production of electricity by solar thermal,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,TW,Sector,"Production of electricity by tide, wave, ocean",0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,TW,Sector,Production of electricity by wind,3889.198082639693
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,TW,Sector,Production of electricity nec,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,US,Sector,Production of electricity by Geothermal,2721.785226205987
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,US,Sector,Production of electricity by biomass and waste,35233277.24571192
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,US,Sector,Production of electricity by coal,28344999.132829808
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,US,Sector,Production of electricity by gas,12001007.770556955
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,US,Sector,Production of electricity by hydro,7633.776575321541
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,US,Sector,Production of electricity by nuclear,2932.462299204764
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,US,Sector,Production of electricity by petroleum and other oil derivatives,21493567.069752272
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,US,Sector,Production of electricity by solar photovoltaic,2996.563862482407
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,US,Sector,Production of electricity by solar thermal,2688.0035334776258
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,US,Sector,"Production of electricity by tide, wave, ocean",0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,US,Sector,Production of electricity by wind,3331.0907070253743
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,US,Sector,Production of electricity nec,2851.5054207656062
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,WA,Sector,Production of electricity by Geothermal,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,WA,Sector,Production of electricity by biomass and waste,8098224.486116644
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,WA,Sector,Production of electricity by coal,28809237.594006497
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,WA,Sector,Production of electricity by gas,11953945.867816934
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,WA,Sector,Production of electricity by hydro,5955.08222554407
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,WA,Sector,Production of electricity by nuclear,3243.463696023111
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,WA,Sector,Production of electricity by petroleum and other oil derivatives,21899130.8031805
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,WA,Sector,Production of electricity by solar photovoltaic,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,WA,Sector,Production of electricity by solar thermal,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,WA,Sector,"Production of electricity by tide, wave, ocean",0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,WA,Sector,Production of electricity by wind,9.772974081536663
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,WA,Sector,Production of electricity nec,5.3327314681575455
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,WE,Sector,Production of electricity by Geothermal,45513.78248325456
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,WE,Sector,Production of electricity by biomass and waste,166416.4881395863
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,WE,Sector,Production of electricity by coal,48413187.79701839
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,WE,Sector,Production of electricity by gas,14022572.9646326
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,WE,Sector,Production of electricity by hydro,12652.794730111245
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,WE,Sector,Production of electricity by nuclear,6143.500499827099
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,WE,Sector,Production of electricity by petroleum and other oil derivatives,10738223.433123022
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,WE,Sector,Production of electricity by solar photovoltaic,712.1567075805302
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,WE,Sector,Production of electricity by solar thermal,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,WE,Sector,"Production of electricity by tide, wave, ocean",0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,WE,Sector,Production of electricity by wind,102353.40855536345
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,WE,Sector,Production of electricity nec,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,WF,Sector,Production of electricity by Geothermal,1489.019032815079
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,WF,Sector,Production of electricity by biomass and waste,16454658.084494203
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,WF,Sector,Production of electricity by coal,19770136.424823865
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,WF,Sector,Production of electricity by gas,8412107.500954738
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,WF,Sector,Production of electricity by hydro,9463.792623453466
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,WF,Sector,Production of electricity by nuclear,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,WF,Sector,Production of electricity by petroleum and other oil derivatives,14355119.309402427
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,WF,Sector,Production of electricity by solar photovoltaic,0.004082580407351543
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,WF,Sector,Production of electricity by solar thermal,241.07914500190253
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,WF,Sector,"Production of electricity by tide, wave, ocean",0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,WF,Sector,Production of electricity by wind,13.236833146727289
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,WF,Sector,Production of electricity nec,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,WL,Sector,Production of electricity by Geothermal,127923.79286261971
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,WL,Sector,Production of electricity by biomass and waste,6139270.278800332
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,WL,Sector,Production of electricity by coal,20057696.469993424
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,WL,Sector,Production of electricity by gas,8285448.811206183
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,WL,Sector,Production of electricity by hydro,7481.856885138395
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,WL,Sector,Production of electricity by nuclear,73752.12451380132
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,WL,Sector,Production of electricity by petroleum and other oil derivatives,11729186.930221254
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,WL,Sector,Production of electricity by solar photovoltaic,4229.633813091645
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,WL,Sector,Production of electricity by solar thermal,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,WL,Sector,"Production of electricity by tide, wave, ocean",0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,WL,Sector,Production of electricity by wind,357656.8094100405
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,WL,Sector,Production of electricity nec,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,WM,Sector,Production of electricity by Geothermal,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,WM,Sector,Production of electricity by biomass and waste,20894.557782850876
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,WM,Sector,Production of electricity by coal,21121451.068620663
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,WM,Sector,Production of electricity by gas,11316222.037740162
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,WM,Sector,Production of electricity by hydro,58876.664211832656
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,WM,Sector,Production of electricity by nuclear,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,WM,Sector,Production of electricity by petroleum and other oil derivatives,14888915.060116228
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,WM,Sector,Production of electricity by solar photovoltaic,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,WM,Sector,Production of electricity by solar thermal,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,WM,Sector,"Production of electricity by tide, wave, ocean",0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,WM,Sector,Production of electricity by wind,150941.73425839044
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,WM,Sector,Production of electricity nec,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,ZA,Sector,Production of electricity by Geothermal,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,ZA,Sector,Production of electricity by biomass and waste,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,ZA,Sector,Production of electricity by coal,26558692.587389875
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,ZA,Sector,Production of electricity by gas,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,ZA,Sector,Production of electricity by hydro,1997.295745865726
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,ZA,Sector,Production of electricity by nuclear,335.3371593157535
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,ZA,Sector,Production of electricity by petroleum and other oil derivatives,40349928.635485955
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,ZA,Sector,Production of electricity by solar photovoltaic,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,ZA,Sector,Production of electricity by solar thermal,2713.536328000102
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,ZA,Sector,"Production of electricity by tide, wave, ocean",0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,ZA,Sector,Production of electricity by wind,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Intensity,GHG,kg CO2eq/M.EUR,ZA,Sector,Production of electricity nec,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,AT,Sector,Production of electricity by Geothermal,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,AT,Sector,Production of electricity by biomass and waste,7166408.469627905
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,AT,Sector,Production of electricity by coal,10355176.329696916
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,AT,Sector,Production of electricity by gas,4643745.088448356
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,AT,Sector,Production of electricity by hydro,212967.26346864746
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,AT,Sector,Production of electricity by nuclear,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,AT,Sector,Production of electricity by petroleum and other oil derivatives,1137732.1527092494
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,AT,Sector,Production of electricity by solar photovoltaic,240170.87762258394
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,AT,Sector,Production of electricity by solar thermal,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,AT,Sector,"Production of electricity by tide, wave, ocean",0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,AT,Sector,Production of electricity by wind,252349.95736007037
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,AT,Sector,Production of electricity nec,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,AU,Sector,Production of electricity by Geothermal,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,AU,Sector,Production of electricity by biomass and waste,539406.676014169
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,AU,Sector,Production of electricity by coal,15146085.958270827
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,AU,Sector,Production of electricity by gas,6516535.031548925
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,AU,Sector,Production of electricity by hydro,74987.9221987275
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,AU,Sector,Production of electricity by nuclear,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,AU,Sector,Production of electricity by petroleum and other oil derivatives,9162065.411502212
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,AU,Sector,Production of electricity by solar photovoltaic,75563.78452900368
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,AU,Sector,Production of electricity by solar thermal,66193.4714084801
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,AU,Sector,"Production of electricity by tide, wave, ocean",0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,AU,Sector,Production of electricity by wind,128689.03961670844
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,AU,Sector,Production of electricity nec,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,BE,Sector,Production of electricity by Geothermal,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,BE,Sector,Production of electricity by biomass and waste,17064472.593115937
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,BE,Sector,Production of electricity by coal,384377.5389364654
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,BE,Sector,Production of electricity by gas,6788384.709991546
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,BE,Sector,Production of electricity by hydro,179568.6684338104
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,BE,Sector,Production of electricity by nuclear,136522.64036598612
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,BE,Sector,Production of electricity by petroleum and other oil derivatives,2049246.233365632
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,BE,Sector,Production of electricity by solar photovoltaic,177332.9185141509
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,BE,Sector,Production of electricity by solar thermal,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,BE,Sector,"Production of electricity by tide, wave, ocean",0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,BE,Sector,Production of electricity by wind,176753.81371002653
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,BE,Sector,Production of electricity nec,208903.42838131715
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,BG,Sector,Production of electricity by Geothermal,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,BG,Sector,Production of electricity by biomass and waste,2306503.4529278814
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,BG,Sector,Production of electricity by coal,16684742.574610617
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,BG,Sector,Production of electricity by gas,11061599.597055947
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,BG,Sector,Production of electricity by hydro,205991.3703129619
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,BG,Sector,Production of electricity by nuclear,195156.2860676095
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,BG,Sector,Production of electricity by petroleum and other oil derivatives,2210095.344077575
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,BG,Sector,Production of electricity by solar photovoltaic,623864.4057055687
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,BG,Sector,Production of electricity by solar thermal,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,BG,Sector,"Production of electricity by tide, wave, ocean",0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,BG,Sector,Production of electricity by wind,213497.47698193102
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,BG,Sector,Production of electricity nec,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,BR,Sector,Production of electricity by Geothermal,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,BR,Sector,Production of electricity by biomass and waste,256427.62060002724
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,BR,Sector,Production of electricity by coal,16598913.56948754
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,BR,Sector,Production of electricity by gas,8467148.95024003
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,BR,Sector,Production of electricity by hydro,75379.31107586651
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,BR,Sector,Production of electricity by nuclear,60257.33783385822
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,BR,Sector,Production of electricity by petroleum and other oil derivatives,9263504.429328192
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,BR,Sector,Production of electricity by solar photovoltaic,512036.2696780041
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,BR,Sector,Production of electricity by solar thermal,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,BR,Sector,"Production of electricity by tide, wave, ocean",0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,BR,Sector,Production of electricity by wind,78392.32042373558
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,BR,Sector,Production of electricity nec,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,CA,Sector,Production of electricity by Geothermal,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,CA,Sector,Production of electricity by biomass and waste,5951572.694501165
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,CA,Sector,Production of electricity by coal,31473015.091596995
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,CA,Sector,Production of electricity by gas,11071413.024426756
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,CA,Sector,Production of electricity by hydro,69669.2057377324
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,CA,Sector,Production of electricity by nuclear,51181.78303834398
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,CA,Sector,Production of electricity by petroleum and other oil derivatives,29027723.840320442
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,CA,Sector,Production of electricity by solar photovoltaic,168841.12620724447
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,CA,Sector,Production of electricity by solar thermal,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,CA,Sector,"Production of electricity by tide, wave, ocean",0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,CA,Sector,Production of electricity by wind,119163.55998416984
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,CA,Sector,Production of electricity nec,186727.30644598693
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,CH,Sector,Production of electricity by Geothermal,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,CH,Sector,Production of electricity by biomass and waste,1359815.7089116252
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,CH,Sector,Production of electricity by coal,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,CH,Sector,Production of electricity by gas,5486131.630333561
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,CH,Sector,Production of electricity by hydro,116517.1112041188
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,CH,Sector,Production of electricity by nuclear,138741.60688660198
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,CH,Sector,Production of electricity by petroleum and other oil derivatives,21603127.356173765
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,CH,Sector,Production of electricity by solar photovoltaic,98576.0133784742
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,CH,Sector,Production of electricity by solar thermal,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,CH,Sector,"Production of electricity by tide, wave, ocean",0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,CH,Sector,Production of electricity by wind,106607.27398428945
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,CH,Sector,Production of electricity nec,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,CN,Sector,Production of electricity by Geothermal,613429.9165010346
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,CN,Sector,Production of electricity by biomass and waste,695081.182318299
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,CN,Sector,Production of electricity by coal,20331441.018875238
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,CN,Sector,Production of electricity by gas,9217947.462815821
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,CN,Sector,Production of electricity by hydro,275529.10755418584
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,CN,Sector,Production of electricity by nuclear,204618.14397104696
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,CN,Sector,Production of electricity by petroleum and other oil derivatives,4588807.533169795
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,CN,Sector,Production of electricity by solar photovoltaic,187897.19003753687
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,CN,Sector,Production of electricity by solar thermal,600262.8803780199
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,CN,Sector,"Production of electricity by tide, wave, ocean",627062.9520960305
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,CN,Sector,Production of electricity by wind,193676.68752754506
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,CN,Sector,Production of electricity nec,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,CY,Sector,Production of electricity by Geothermal,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,CY,Sector,Production of electricity by biomass and waste,244166.4073818077
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,CY,Sector,Production of electricity by coal,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,CY,Sector,Production of electricity by gas,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,CY,Sector,Production of electricity by hydro,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,CY,Sector,Production of electricity by nuclear,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,CY,Sector,Production of electricity by petroleum and other oil derivatives,7640547.222805957
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,CY,Sector,Production of electricity by solar photovoltaic,79680.56927681892
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,CY,Sector,Production of electricity by solar thermal,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,CY,Sector,"Production of electricity by tide, wave, ocean",0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,CY,Sector,Production of electricity by wind,42417.57597656393
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,CY,Sector,Production of electricity nec,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,CZ,Sector,Production of electricity by Geothermal,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,CZ,Sector,Production of electricity by biomass and waste,1295442.4505878997
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,CZ,Sector,Production of electricity by coal,20115486.325046495
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,CZ,Sector,Production of electricity by gas,8434125.338072535
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,CZ,Sector,Production of electricity by hydro,227850.57777615887
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,CZ,Sector,Production of electricity by nuclear,161899.23450480783
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,CZ,Sector,Production of electricity by petroleum and other oil derivatives,3061736.1523252903
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,CZ,Sector,Production of electricity by solar photovoltaic,174387.28291896448
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,CZ,Sector,Production of electricity by solar thermal,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,CZ,Sector,"Production of electricity by tide, wave, ocean",0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,CZ,Sector,Production of electricity by wind,275775.8095441277
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,CZ,Sector,Production of electricity nec,400610.79189149215
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,DE,Sector,Production of electricity by Geothermal,42752.68002902804
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,DE,Sector,Production of electricity by biomass and waste,3903226.381053355
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,DE,Sector,Production of electricity by coal,14757327.785405463
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,DE,Sector,Production of electricity by gas,4703480.707696401
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,DE,Sector,Production of electricity by hydro,81221.64716765031
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,DE,Sector,Production of electricity by nuclear,86096.98568786071
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,DE,Sector,Production of electricity by petroleum and other oil derivatives,2648291.1368189105
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,DE,Sector,Production of electricity by solar photovoltaic,79688.31309439402
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,DE,Sector,Production of electricity by solar thermal,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,DE,Sector,"Production of electricity by tide, wave, ocean",0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,DE,Sector,Production of electricity by wind,78671.3092863844
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,DE,Sector,Production of electricity nec,126014.89574063945
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,DK,Sector,Production of electricity by Geothermal,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,DK,Sector,Production of electricity by biomass and waste,4977456.858352795
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,DK,Sector,Production of electricity by coal,23218460.004289873
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,DK,Sector,Production of electricity by gas,2230490.0178338964
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,DK,Sector,Production of electricity by hydro,26245.31043218232
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,DK,Sector,Production of electricity by nuclear,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,DK,Sector,Production of electricity by petroleum and other oil derivatives,3298838.988490837
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,DK,Sector,Production of electricity by solar photovoltaic,10728.46084296974
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,DK,Sector,Production of electricity by solar thermal,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,DK,Sector,"Production of electricity by tide, wave, ocean",0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,DK,Sector,Production of electricity by wind,28977.76886550197
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,DK,Sector,Production of electricity nec,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,EE,Sector,Production of electricity by Geothermal,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,EE,Sector,Production of electricity by biomass and waste,10628397.650329184
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,EE,Sector,Production of electricity by coal,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,EE,Sector,Production of electricity by gas,2582772.701295798
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,EE,Sector,Production of electricity by hydro,43003.984924895194
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,EE,Sector,Production of electricity by nuclear,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,EE,Sector,Production of electricity by petroleum and other oil derivatives,4154991.560689987
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,EE,Sector,Production of electricity by solar photovoltaic,82620.9951649271
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,EE,Sector,Production of electricity by solar thermal,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,EE,Sector,"Production of electricity by tide, wave, ocean",0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,EE,Sector,Production of electricity by wind,42673.43437586961
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,EE,Sector,Production of electricity nec,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,ES,Sector,Production of electricity by Geothermal,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,ES,Sector,Production of electricity by biomass and waste,4664506.019958744
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,ES,Sector,Production of electricity by coal,19928130.15071137
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,ES,Sector,Production of electricity by gas,6347656.406920895
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,ES,Sector,Production of electricity by hydro,168527.9616143948
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,ES,Sector,Production of electricity by nuclear,163964.18493798954
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,ES,Sector,Production of electricity by petroleum and other oil derivatives,15573379.889682787
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,ES,Sector,Production of electricity by solar photovoltaic,129702.10856896795
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,ES,Sector,Production of electricity by solar thermal,168657.74794505408
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,ES,Sector,"Production of electricity by tide, wave, ocean",224957.13703249118
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,ES,Sector,Production of electricity by wind,145974.30278575784
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,ES,Sector,Production of electricity nec,235518.8549900516
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,FI,Sector,Production of electricity by Geothermal,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,FI,Sector,Production of electricity by biomass and waste,6980133.981879197
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,FI,Sector,Production of electricity by coal,4200326.27576879
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,FI,Sector,Production of electricity by gas,12588520.75511332
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,FI,Sector,Production of electricity by hydro,65641.91579674698
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,FI,Sector,Production of electricity by nuclear,33856.66433629777
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,FI,Sector,Production of electricity by petroleum and other oil derivatives,5899378.397905075
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,FI,Sector,Production of electricity by solar photovoltaic,59642.04140565318
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,FI,Sector,Production of electricity by solar thermal,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,FI,Sector,"Production of electricity by tide, wave, ocean",0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,FI,Sector,Production of electricity by wind,67062.30330224126
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,FI,Sector,Production of electricity nec,96985.88185314249
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,FR,Sector,Production of electricity by Geothermal,107159.1903063685
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,FR,Sector,Production of electricity by biomass and waste,1810670.794414213
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,FR,Sector,Production of electricity by coal,16155762.20936693
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,FR,Sector,Production of electricity by gas,6522582.473554983
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,FR,Sector,Production of electricity by hydro,95687.99470103235
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,FR,Sector,Production of electricity by nuclear,92320.6098338331
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,FR,Sector,Production of electricity by petroleum and other oil derivatives,11833712.515788024
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,FR,Sector,Production of electricity by solar photovoltaic,77657.5690849858
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,FR,Sector,Production of electricity by solar thermal,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,FR,Sector,"Production of electricity by tide, wave, ocean",81146.07798865308
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,FR,Sector,Production of electricity by wind,83469.78513173612
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,FR,Sector,Production of electricity nec,132590.10889282142
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,GB,Sector,Production of electricity by Geothermal,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,GB,Sector,Production of electricity by biomass and waste,3369939.6656601857
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,GB,Sector,Production of electricity by coal,13534972.473543307
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,GB,Sector,Production of electricity by gas,3949783.0423292858
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,GB,Sector,Production of electricity by hydro,262319.48401397484
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,GB,Sector,Production of electricity by nuclear,301560.5311213481
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,GB,Sector,Production of electricity by petroleum and other oil derivatives,3704598.843196411
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,GB,Sector,Production of electricity by solar photovoltaic,251830.60130138055
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,GB,Sector,Production of electricity by solar thermal,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,GB,Sector,"Production of electricity by tide, wave, ocean",317734.1170701423
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,GB,Sector,Production of electricity by wind,142869.7684454433
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,GB,Sector,Production of electricity nec,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,GR,Sector,Production of electricity by Geothermal,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,GR,Sector,Production of electricity by biomass and waste,616727.1497996411
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,GR,Sector,Production of electricity by coal,27284175.48193594
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,GR,Sector,Production of electricity by gas,9651496.045048533
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,GR,Sector,Production of electricity by hydro,127159.80056039925
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,GR,Sector,Production of electricity by nuclear,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,GR,Sector,Production of electricity by petroleum and other oil derivatives,17681607.497962907
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,GR,Sector,Production of electricity by solar photovoltaic,129110.99068059234
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,GR,Sector,Production of electricity by solar thermal,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,GR,Sector,"Production of electricity by tide, wave, ocean",0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,GR,Sector,Production of electricity by wind,135876.46830787102
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,GR,Sector,Production of electricity nec,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,HR,Sector,Production of electricity by Geothermal,485907.32013301575
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,HR,Sector,Production of electricity by biomass and waste,877258.4838663883
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,HR,Sector,Production of electricity by coal,10012003.835890602
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,HR,Sector,Production of electricity by gas,4896057.001327905
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,HR,Sector,Production of electricity by hydro,71513.34746781194
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,HR,Sector,Production of electricity by nuclear,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,HR,Sector,Production of electricity by petroleum and other oil derivatives,2883459.0961023625
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,HR,Sector,Production of electricity by solar photovoltaic,4135240.1218610774
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,HR,Sector,Production of electricity by solar thermal,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,HR,Sector,"Production of electricity by tide, wave, ocean",0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,HR,Sector,Production of electricity by wind,2727089.5599844204
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,HR,Sector,Production of electricity nec,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,HU,Sector,Production of electricity by Geothermal,58791.416974568085
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,HU,Sector,Production of electricity by biomass and waste,2668653.1395251625
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,HU,Sector,Production of electricity by coal,11379594.779887518
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,HU,Sector,Production of electricity by gas,5555868.154993141
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,HU,Sector,Production of electricity by hydro,211665.89678714634
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,HU,Sector,Production of electricity by nuclear,148752.19110801996
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,HU,Sector,Production of electricity by petroleum and other oil derivatives,1668084.900332713
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,HU,Sector,Production of electricity by solar photovoltaic,364578.13754624955
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,HU,Sector,Production of electricity by solar thermal,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,HU,Sector,"Production of electricity by tide, wave, ocean",0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,HU,Sector,Production of electricity by wind,195001.4540434399
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,HU,Sector,Production of electricity nec,398553.53336941527
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,ID,Sector,Production of electricity by Geothermal,54318.171032500424
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,ID,Sector,Production of electricity by biomass and waste,155078.88010873052
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,ID,Sector,Production of electricity by coal,15252801.433502559
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,ID,Sector,Production of electricity by gas,12326472.011465218
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,ID,Sector,Production of electricity by hydro,110248.40813964595
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,ID,Sector,Production of electricity by nuclear,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,ID,Sector,Production of electricity by petroleum and other oil derivatives,17670313.208712026
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,ID,Sector,Production of electricity by solar photovoltaic,129248.14556044528
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,ID,Sector,Production of electricity by solar thermal,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,ID,Sector,"Production of electricity by tide, wave, ocean",0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,ID,Sector,Production of electricity by wind,117900.71426498656
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,ID,Sector,Production of electricity nec,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,IE,Sector,Production of electricity by Geothermal,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,IE,Sector,Production of electricity by biomass and waste,17481313.949899137
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,IE,Sector,Production of electricity by coal,17236731.9279094
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,IE,Sector,Production of electricity by gas,5366783.50557616
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,IE,Sector,Production of electricity by hydro,13564.945439501678
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,IE,Sector,Production of electricity by nuclear,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,IE,Sector,Production of electricity by petroleum and other oil derivatives,8673644.280836461
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,IE,Sector,Production of electricity by solar photovoltaic,6125.940971159796
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,IE,Sector,Production of electricity by solar thermal,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,IE,Sector,"Production of electricity by tide, wave, ocean",0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,IE,Sector,Production of electricity by wind,9710.017574635864
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,IE,Sector,Production of electricity nec,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,IN,Sector,Production of electricity by Geothermal,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,IN,Sector,Production of electricity by biomass and waste,2094899.6670472913
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,IN,Sector,Production of electricity by coal,41077322.09244177
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,IN,Sector,Production of electricity by gas,16789423.18006716
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,IN,Sector,Production of electricity by hydro,362044.74036527367
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,IN,Sector,Production of electricity by nuclear,259555.31867051238
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,IN,Sector,Production of electricity by petroleum and other oil derivatives,15097219.66416758
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,IN,Sector,Production of electricity by solar photovoltaic,214531.72062939976
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,IN,Sector,Production of electricity by solar thermal,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,IN,Sector,"Production of electricity by tide, wave, ocean",0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,IN,Sector,Production of electricity by wind,408627.1796308468
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,IN,Sector,Production of electricity nec,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,IT,Sector,Production of electricity by Geothermal,103131.26508006074
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,IT,Sector,Production of electricity by biomass and waste,2194656.636747608
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,IT,Sector,Production of electricity by coal,7697561.412555619
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,IT,Sector,Production of electricity by gas,4618415.642631861
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,IT,Sector,Production of electricity by hydro,91176.57937539702
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,IT,Sector,Production of electricity by nuclear,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,IT,Sector,Production of electricity by petroleum and other oil derivatives,6821911.975668714
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,IT,Sector,Production of electricity by solar photovoltaic,81856.58878657724
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,IT,Sector,Production of electricity by solar thermal,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,IT,Sector,"Production of electricity by tide, wave, ocean",0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,IT,Sector,Production of electricity by wind,91471.81442237773
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,IT,Sector,Production of electricity nec,142339.61000216578
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,JP,Sector,Production of electricity by Geothermal,97565.73383438836
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,JP,Sector,Production of electricity by biomass and waste,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,JP,Sector,Production of electricity by coal,14440476.852812992
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,JP,Sector,Production of electricity by gas,11005726.422711557
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,JP,Sector,Production of electricity by hydro,133001.9102779737
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,JP,Sector,Production of electricity by nuclear,337097.7468668611
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,JP,Sector,Production of electricity by petroleum and other oil derivatives,10683091.948919099
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,JP,Sector,Production of electricity by solar photovoltaic,90777.32453563134
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,JP,Sector,Production of electricity by solar thermal,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,JP,Sector,"Production of electricity by tide, wave, ocean",0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,JP,Sector,Production of electricity by wind,92799.73702689208
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,JP,Sector,Production of electricity nec,209823.71572298926
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,KR,Sector,Production of electricity by Geothermal,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,KR,Sector,Production of electricity by biomass and waste,1799749.113186239
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,KR,Sector,Production of electricity by coal,27816013.46113993
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,KR,Sector,Production of electricity by gas,17690423.471474513
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,KR,Sector,Production of electricity by hydro,311321.5040211887
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,KR,Sector,Production of electricity by nuclear,219877.43130777116
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,KR,Sector,Production of electricity by petroleum and other oil derivatives,16662362.871870155
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,KR,Sector,Production of electricity by solar photovoltaic,255568.11288655648
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,KR,Sector,Production of electricity by solar thermal,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,KR,Sector,"Production of electricity by tide, wave, ocean",309220.88153280824
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,KR,Sector,Production of electricity by wind,279902.5459351064
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,KR,Sector,Production of electricity nec,282578.4286020501
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,LT,Sector,Production of electricity by Geothermal,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,LT,Sector,Production of electricity by biomass and waste,10080057.38937136
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,LT,Sector,Production of electricity by coal,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,LT,Sector,Production of electricity by gas,3154156.0820774906
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,LT,Sector,Production of electricity by hydro,82287.97418112644
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,LT,Sector,Production of electricity by nuclear,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,LT,Sector,Production of electricity by petroleum and other oil derivatives,782967.5167279604
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,LT,Sector,Production of electricity by solar photovoltaic,63363.57981170689
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,LT,Sector,Production of electricity by solar thermal,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,LT,Sector,"Production of electricity by tide, wave, ocean",0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,LT,Sector,Production of electricity by wind,79221.0634530445
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,LT,Sector,Production of electricity nec,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,LU,Sector,Production of electricity by Geothermal,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,LU,Sector,Production of electricity by biomass and waste,5950638.367515002
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,LU,Sector,Production of electricity by coal,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,LU,Sector,Production of electricity by gas,11729089.069447557
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,LU,Sector,Production of electricity by hydro,197008.27673296427
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,LU,Sector,Production of electricity by nuclear,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,LU,Sector,Production of electricity by petroleum and other oil derivatives,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,LU,Sector,Production of electricity by solar photovoltaic,164767.9024659892
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,LU,Sector,Production of electricity by solar thermal,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,LU,Sector,"Production of electricity by tide, wave, ocean",0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,LU,Sector,Production of electricity by wind,174808.9524198695
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,LU,Sector,Production of electricity nec,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,LV,Sector,Production of electricity by Geothermal,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,LV,Sector,Production of electricity by biomass and waste,1461479.242611722
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,LV,Sector,Production of electricity by coal,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,LV,Sector,Production of electricity by gas,4548681.003566196
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,LV,Sector,Production of electricity by hydro,100232.68259993735
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,LV,Sector,Production of electricity by nuclear,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,LV,Sector,Production of electricity by petroleum and other oil derivatives,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,LV,Sector,Production of electricity by solar photovoltaic,33744.10948396311
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,LV,Sector,Production of electricity by solar thermal,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,LV,Sector,"Production of electricity by tide, wave, ocean",0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,LV,Sector,Production of electricity by wind,92460.96265625018
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,LV,Sector,Production of electricity nec,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,MT,Sector,Production of electricity by Geothermal,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,MT,Sector,Production of electricity by biomass and waste,2034882.5096283404
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,MT,Sector,Production of electricity by coal,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,MT,Sector,Production of electricity by gas,63495910.06510023
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,MT,Sector,Production of electricity by hydro,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,MT,Sector,Production of electricity by nuclear,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,MT,Sector,Production of electricity by petroleum and other oil derivatives,63743273.41003664
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,MT,Sector,Production of electricity by solar photovoltaic,127490.2672966083
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,MT,Sector,Production of electricity by solar thermal,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,MT,Sector,"Production of electricity by tide, wave, ocean",0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,MT,Sector,Production of electricity by wind,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,MT,Sector,Production of electricity nec,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,MX,Sector,Production of electricity by Geothermal,111218.16934781714
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,MX,Sector,Production of electricity by biomass and waste,355952.7488414245
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,MX,Sector,Production of electricity by coal,21850619.954155803
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,MX,Sector,Production of electricity by gas,10552285.331871437
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,MX,Sector,Production of electricity by hydro,82749.80999349918
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,MX,Sector,Production of electricity by nuclear,39024.86714258385
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,MX,Sector,Production of electricity by petroleum and other oil derivatives,13287998.45544291
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,MX,Sector,Production of electricity by solar photovoltaic,62726.717076564535
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,MX,Sector,Production of electricity by solar thermal,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,MX,Sector,"Production of electricity by tide, wave, ocean",0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,MX,Sector,Production of electricity by wind,76980.06101901189
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,MX,Sector,Production of electricity nec,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,NL,Sector,Production of electricity by Geothermal,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,NL,Sector,Production of electricity by biomass and waste,3551794.0056870445
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,NL,Sector,Production of electricity by coal,23250261.60180726
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,NL,Sector,Production of electricity by gas,8682120.783388315
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,NL,Sector,Production of electricity by hydro,132933.8392796308
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,NL,Sector,Production of electricity by nuclear,129554.6041216895
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,NL,Sector,Production of electricity by petroleum and other oil derivatives,7018729.096711998
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,NL,Sector,Production of electricity by solar photovoltaic,109089.08121067683
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,NL,Sector,Production of electricity by solar thermal,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,NL,Sector,"Production of electricity by tide, wave, ocean",0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,NL,Sector,Production of electricity by wind,136411.47856222597
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,NL,Sector,Production of electricity nec,172064.27370148583
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,NO,Sector,Production of electricity by Geothermal,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,NO,Sector,Production of electricity by biomass and waste,12106819.912212906
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,NO,Sector,Production of electricity by coal,2444060.411092114
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,NO,Sector,Production of electricity by gas,2833325.4808493215
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,NO,Sector,Production of electricity by hydro,18528.053904801345
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,NO,Sector,Production of electricity by nuclear,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,NO,Sector,Production of electricity by petroleum and other oil derivatives,1086038.7526161894
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,NO,Sector,Production of electricity by solar photovoltaic,35729.700067061065
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,NO,Sector,Production of electricity by solar thermal,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,NO,Sector,"Production of electricity by tide, wave, ocean",0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,NO,Sector,Production of electricity by wind,49523.864207831786
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,NO,Sector,Production of electricity nec,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,PL,Sector,Production of electricity by Geothermal,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,PL,Sector,Production of electricity by biomass and waste,5128690.178963535
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,PL,Sector,Production of electricity by coal,15921650.95426094
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,PL,Sector,Production of electricity by gas,6154461.141469286
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,PL,Sector,Production of electricity by hydro,179529.99863873745
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,PL,Sector,Production of electricity by nuclear,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,PL,Sector,Production of electricity by petroleum and other oil derivatives,2186761.3447652147
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,PL,Sector,Production of electricity by solar photovoltaic,117750.99466312035
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,PL,Sector,Production of electricity by solar thermal,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,PL,Sector,"Production of electricity by tide, wave, ocean",0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,PL,Sector,Production of electricity by wind,175124.81402368762
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,PL,Sector,Production of electricity nec,228444.65264582756
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,PT,Sector,Production of electricity by Geothermal,71557.46340223352
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,PT,Sector,Production of electricity by biomass and waste,2665991.854143636
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,PT,Sector,Production of electricity by coal,13257746.898890585
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,PT,Sector,Production of electricity by gas,3651895.993387048
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,PT,Sector,Production of electricity by hydro,67734.61587761267
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,PT,Sector,Production of electricity by nuclear,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,PT,Sector,Production of electricity by petroleum and other oil derivatives,7841015.991818935
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,PT,Sector,Production of electricity by solar photovoltaic,60930.52755214521
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,PT,Sector,Production of electricity by solar thermal,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,PT,Sector,"Production of electricity by tide, wave, ocean",0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,PT,Sector,Production of electricity by wind,45025.78303130026
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,PT,Sector,Production of electricity nec,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,RO,Sector,Production of electricity by Geothermal,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,RO,Sector,Production of electricity by biomass and waste,1275943.485241883
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,RO,Sector,Production of electricity by coal,14278313.672517912
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,RO,Sector,Production of electricity by gas,3807122.4734832356
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,RO,Sector,Production of electricity by hydro,178317.3918118319
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,RO,Sector,Production of electricity by nuclear,114553.75127445061
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,RO,Sector,Production of electricity by petroleum and other oil derivatives,2829089.20771265
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,RO,Sector,Production of electricity by solar photovoltaic,104108.36660303673
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,RO,Sector,Production of electricity by solar thermal,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,RO,Sector,"Production of electricity by tide, wave, ocean",0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,RO,Sector,Production of electricity by wind,140246.78077077575
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,RO,Sector,Production of electricity nec,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,RU,Sector,Production of electricity by Geothermal,931967.3754144214
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,RU,Sector,Production of electricity by biomass and waste,6278595.542075496
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,RU,Sector,Production of electricity by coal,39931617.38604057
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,RU,Sector,Production of electricity by gas,2467452.883077733
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,RU,Sector,Production of electricity by hydro,126169.13406774953
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,RU,Sector,Production of electricity by nuclear,86855.78278131752
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,RU,Sector,Production of electricity by petroleum and other oil derivatives,21310996.852614775
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,RU,Sector,Production of electricity by solar photovoltaic,816372.7054226852
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,RU,Sector,Production of electricity by solar thermal,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,RU,Sector,"Production of electricity by tide, wave, ocean",0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,RU,Sector,Production of electricity by wind,928043.1452803006
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,RU,Sector,Production of electricity nec,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,SE,Sector,Production of electricity by Geothermal,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,SE,Sector,Production of electricity by biomass and waste,42167686.96190392
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,SE,Sector,Production of electricity by coal,464454.38858134265
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,SE,Sector,Production of electricity by gas,961400.5668923958
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,SE,Sector,Production of electricity by hydro,32332.21631975871
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,SE,Sector,Production of electricity by nuclear,42194.06665062851
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,SE,Sector,Production of electricity by petroleum and other oil derivatives,3449389.97780212
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,SE,Sector,Production of electricity by solar photovoltaic,36366.884127984245
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,SE,Sector,Production of electricity by solar thermal,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,SE,Sector,"Production of electricity by tide, wave, ocean",0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,SE,Sector,Production of electricity by wind,43035.73257862715
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,SE,Sector,Production of electricity nec,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,SI,Sector,Production of electricity by Geothermal,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,SI,Sector,Production of electricity by biomass and waste,2588987.0612796317
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,SI,Sector,Production of electricity by coal,14729639.97813596
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,SI,Sector,Production of electricity by gas,4491793.17810264
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,SI,Sector,Production of electricity by hydro,108916.74340227473
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,SI,Sector,Production of electricity by nuclear,111757.92831792655
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,SI,Sector,Production of electricity by petroleum and other oil derivatives,2795508.0743228276
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,SI,Sector,Production of electricity by solar photovoltaic,74483.19515198645
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,SI,Sector,Production of electricity by solar thermal,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,SI,Sector,"Production of electricity by tide, wave, ocean",0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,SI,Sector,Production of electricity by wind,71912.63784173176
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,SI,Sector,Production of electricity nec,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,SK,Sector,Production of electricity by Geothermal,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,SK,Sector,Production of electricity by biomass and waste,1431330.9789939197
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,SK,Sector,Production of electricity by coal,22306477.455342438
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,SK,Sector,Production of electricity by gas,10208063.636118783
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,SK,Sector,Production of electricity by hydro,326671.81451053976
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,SK,Sector,Production of electricity by nuclear,371643.42113940185
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,SK,Sector,Production of electricity by petroleum and other oil derivatives,886696.5754248566
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,SK,Sector,Production of electricity by solar photovoltaic,329592.0742206956
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,SK,Sector,Production of electricity by solar thermal,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,SK,Sector,"Production of electricity by tide, wave, ocean",0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,SK,Sector,Production of electricity by wind,325126.97026631725
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,SK,Sector,Production of electricity nec,442074.31659100857
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,TR,Sector,Production of electricity by Geothermal,336857.8658266733
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,TR,Sector,Production of electricity by biomass and waste,2532954.9520248217
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,TR,Sector,Production of electricity by coal,57563310.2255084
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,TR,Sector,Production of electricity by gas,18960539.142098326
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,TR,Sector,Production of electricity by hydro,190486.93720737178
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,TR,Sector,Production of electricity by nuclear,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,TR,Sector,Production of electricity by petroleum and other oil derivatives,1616162.4178440534
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,TR,Sector,Production of electricity by solar photovoltaic,307401.7934808278
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,TR,Sector,Production of electricity by solar thermal,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,TR,Sector,"Production of electricity by tide, wave, ocean",0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,TR,Sector,Production of electricity by wind,271744.77282849106
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,TR,Sector,Production of electricity nec,436508.8953186273
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,TW,Sector,Production of electricity by Geothermal,2435026.2707084683
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,TW,Sector,Production of electricity by biomass and waste,2291287.5346804373
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,TW,Sector,Production of electricity by coal,44438495.611120716
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,TW,Sector,Production of electricity by gas,27161624.16036689
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,TW,Sector,Production of electricity by hydro,233721.14175976528
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,TW,Sector,Production of electricity by nuclear,24329.87690689961
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,TW,Sector,Production of electricity by petroleum and other oil derivatives,42515320.569016986
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,TW,Sector,Production of electricity by solar photovoltaic,11352.049957306088
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,TW,Sector,Production of electricity by solar thermal,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,TW,Sector,"Production of electricity by tide, wave, ocean",0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,TW,Sector,Production of electricity by wind,176126.6701319552
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,TW,Sector,Production of electricity nec,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,US,Sector,Production of electricity by Geothermal,117270.49367404533
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,US,Sector,Production of electricity by biomass and waste,35369152.383916736
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,US,Sector,Production of electricity by coal,28737562.234927207
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,US,Sector,Production of electricity by gas,12388354.103087017
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,US,Sector,Production of electricity by hydro,58871.13606022105
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,US,Sector,Production of electricity by nuclear,35357.48448740657
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,US,Sector,Production of electricity by petroleum and other oil derivatives,22311139.101259135
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,US,Sector,Production of electricity by solar photovoltaic,53864.937931563625
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,US,Sector,Production of electricity by solar thermal,113445.73874095162
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,US,Sector,"Production of electricity by tide, wave, ocean",0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,US,Sector,Production of electricity by wind,60499.87878930247
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,US,Sector,Production of electricity nec,122848.51602090539
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,WA,Sector,Production of electricity by Geothermal,304114.3296911556
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,WA,Sector,Production of electricity by biomass and waste,8821812.265357785
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,WA,Sector,Production of electricity by coal,29707735.5117337
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,WA,Sector,Production of electricity by gas,12678276.276645178
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,WA,Sector,Production of electricity by hydro,195160.57160031935
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,WA,Sector,Production of electricity by nuclear,476579.0227504029
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,WA,Sector,Production of electricity by petroleum and other oil derivatives,23036467.181943715
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,WA,Sector,Production of electricity by solar photovoltaic,520242.7341528665
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,WA,Sector,Production of electricity by solar thermal,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,WA,Sector,"Production of electricity by tide, wave, ocean",0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,WA,Sector,Production of electricity by wind,238604.82516059687
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,WA,Sector,Production of electricity nec,782442.4938919307
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,WE,Sector,Production of electricity by Geothermal,570827.2539313806
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,WE,Sector,Production of electricity by biomass and waste,1054970.1791651198
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,WE,Sector,Production of electricity by coal,49680357.06295031
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,WE,Sector,Production of electricity by gas,15868218.059434474
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,WE,Sector,Production of electricity by hydro,164356.46929514286
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,WE,Sector,Production of electricity by nuclear,149469.7084352446
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,WE,Sector,Production of electricity by petroleum and other oil derivatives,11466940.132331807
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,WE,Sector,Production of electricity by solar photovoltaic,65652.58098165088
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,WE,Sector,Production of electricity by solar thermal,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,WE,Sector,"Production of electricity by tide, wave, ocean",0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,WE,Sector,Production of electricity by wind,461457.11597238044
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,WE,Sector,Production of electricity nec,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,WF,Sector,Production of electricity by Geothermal,231789.4733388182
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,WF,Sector,Production of electricity by biomass and waste,16837571.22958659
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,WF,Sector,Production of electricity by coal,20286338.36296902
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,WF,Sector,Production of electricity by gas,9022466.901582425
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,WF,Sector,Production of electricity by hydro,108866.6228544489
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,WF,Sector,Production of electricity by nuclear,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,WF,Sector,Production of electricity by petroleum and other oil derivatives,15212951.554544697
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,WF,Sector,Production of electricity by solar photovoltaic,201126.87876592425
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,WF,Sector,Production of electricity by solar thermal,45774.5824382316
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,WF,Sector,"Production of electricity by tide, wave, ocean",0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,WF,Sector,Production of electricity by wind,206597.22679250728
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,WF,Sector,Production of electricity nec,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,WL,Sector,Production of electricity by Geothermal,434904.3485422125
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,WL,Sector,Production of electricity by biomass and waste,6517943.1209455365
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,WL,Sector,Production of electricity by coal,20622565.341696624
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,WL,Sector,Production of electricity by gas,9198698.218612527
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,WL,Sector,Production of electricity by hydro,194911.18950448628
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,WL,Sector,Production of electricity by nuclear,411922.12864565075
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,WL,Sector,Production of electricity by petroleum and other oil derivatives,12404621.472289778
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,WL,Sector,Production of electricity by solar photovoltaic,257902.84888630567
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,WL,Sector,Production of electricity by solar thermal,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,WL,Sector,"Production of electricity by tide, wave, ocean",0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,WL,Sector,Production of electricity by wind,700415.6156571825
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,WL,Sector,Production of electricity nec,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,WM,Sector,Production of electricity by Geothermal,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,WM,Sector,Production of electricity by biomass and waste,1390636.7147977604
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,WM,Sector,Production of electricity by coal,22044288.25846301
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,WM,Sector,Production of electricity by gas,12170229.012080224
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,WM,Sector,Production of electricity by hydro,252158.19276411086
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,WM,Sector,Production of electricity by nuclear,74715.41008306998
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,WM,Sector,Production of electricity by petroleum and other oil derivatives,15398691.337803697
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,WM,Sector,Production of electricity by solar photovoltaic,59539.086667533345
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,WM,Sector,Production of electricity by solar thermal,103041.4256967161
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,WM,Sector,"Production of electricity by tide, wave, ocean",0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,WM,Sector,Production of electricity by wind,349748.6250178652
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,WM,Sector,Production of electricity nec,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,ZA,Sector,Production of electricity by Geothermal,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,ZA,Sector,Production of electricity by biomass and waste,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,ZA,Sector,Production of electricity by coal,27419345.696420223
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,ZA,Sector,Production of electricity by gas,0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,ZA,Sector,Production of electricity by hydro,101135.76893177863
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,ZA,Sector,Production of electricity by nuclear,79827.02514872816
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,ZA,Sector,Production of electricity by petroleum and other oil derivatives,41315670.51697718
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,ZA,Sector,Production of electricity by solar photovoltaic,91791.19054845031
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,ZA,Sector,Production of electricity by solar thermal,28321.602401971682
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,ZA,Sector,"Production of electricity by tide, wave, ocean",0.0
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,ZA,Sector,Production of electricity by wind,86876.9637809798
+EXIOBASE,3.9.6,IOT,2022,ixi,Footprint,GHG,kg CO2eq/M.EUR,ZA,Sector,Production of electricity nec,0.0
