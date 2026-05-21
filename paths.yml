@@ -9,7 +9,8 @@ databases:
   EXIOBASE_SUT: '/Users/lorenzorinaldi/Library/CloudStorage/OneDrive-SharedLibraries-PolitecnicodiMilano/DENG-SESAM - Documenti/c-Research/a-Datasets/_Input Output Databases/EXIOBASE/{version}/{table}/{year}/{archive}'
   EORA26: '/Users/lorenzorinaldi/Library/CloudStorage/OneDrive-SharedLibraries-PolitecnicodiMilano/DENG-SESAM - Documenti/c-Research/a-Datasets/_Input Output Databases/EORA/EORA1/Eora26_{year}_bp'
   # EMERGING v2.2 main bundle for the requested year.
-  EMERGING: '/Users/lorenzorinaldi/Library/CloudStorage/OneDrive-SharedLibraries-PolitecnicodiMilano/DENG-SESAM - Documenti/c-Research/a-Datasets/_Input Output Databases/EMERGING/2.2/EMERGING_V2_{year}_m.mat'
+  # EMERGING: '/Users/lorenzorinaldi/Library/CloudStorage/OneDrive-SharedLibraries-PolitecnicodiMilano/DENG-SESAM - Documenti/c-Research/a-Datasets/_Input Output Databases/EMERGING/2.2/EMERGING_V2_{year}_m.mat'
+  EMERGING: '/Users/lorenzorinaldi/Library/CloudStorage/OneDrive-SharedLibraries-PolitecnicodiMilano/DENG-SESAM - Documenti/c-Research/a-Datasets/_Input Output Databases/EMERGING/1.0/global_mrio_{year}.mat'
   # GLORIA root containing the GLORIA_MRIO_Loop060_part_* subfolders; the
   # parser picks the year via year=.
   GLORIA: '/Users/lorenzorinaldi/Library/CloudStorage/OneDrive-SharedLibraries-PolitecnicodiMilano/DENG-SESAM - Documenti/c-Research/a-Datasets/_Input Output Databases/GLORIA'

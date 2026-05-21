@@ -68,8 +68,8 @@ properties = {
     'emerging': {
         'name': 'EMERGING',
         'table': 'IOT',
-        'versions': ['2.2'],
-        'years': [2023],
+        'versions': ['1.0'],
+        'years': [2017],
         'gwps': {
             'Coal': 1,
             'Natural gas': 1,
@@ -79,7 +79,7 @@ properties = {
             'Peat & Peat products': 1,
             'Other': 1,
         },
-        'labels_list': ['Electricity'],
+        'labels_list': ['electricity'],
     },
 
     'gloria': {
