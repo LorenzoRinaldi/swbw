@@ -288,22 +288,4 @@ properties = {
         },
     },
 
-    'gtap': {
-        'name': 'GTAP',
-        'table': 'IOT',
-        'versions': ['12.Power.MRIO'],
-        'years': [2017],
-        'gwps': {
-            'Coal': 1,
-            'Natural gas': 1,
-            'Oil products': 1,
-            'Crude, NGL, Ref Feeds.': 1,
-            'Oil shale & oil sands': 1,
-            'Peat & Peat products': 1,
-            'Other': 1,
-        },
-        'labels_list': ['electricity'],
-    },
-
-
 }
