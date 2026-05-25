@@ -4,3 +4,4 @@ __pycache__/
 support/Electricity_Prices.xlsx
 emission factors/input-output tables/_other_unused/GTAP_IOT_12.Power.MRIO_2017.csv
 emission factors/input-output tables/_other_unused/GTAP_IOT_12.Power.MRIO_2023.csv
+plots/figures/figure_2_electricity_carbon_footprint.tiff
