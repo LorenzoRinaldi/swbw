@@ -245,7 +245,7 @@ def build_figure(df: pd.DataFrame, country_order: list, cfg: Config):
         panel_df = df[(df["Flow"] == flow) & (df["Year"] == year)]
         panel_order = compute_country_order(panel_df, cfg)
         x_positions = {country: i for i, country in enumerate(panel_order)}
-        y_max = 1000 if flow == "Intensity" else 1600
+        y_max = 1250 if flow == "Intensity" else 2000
 
         for source, marker in cfg.SOURCE_MARKERS.items():
             sub = panel_df[panel_df["Source"] == source]
