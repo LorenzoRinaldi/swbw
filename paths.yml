@@ -1,14 +1,13 @@
 
 databases:
-  EXIOBASE: '/Users/lorenzorinaldi/Library/CloudStorage/OneDrive-SharedLibraries-PolitecnicodiMilano/DENG-SESAM - Documenti/c-Research/a-Datasets/_Input Output Databases/EXIOBASE/{version}/{table}_{year}_{system}'
-  EORA26: '/Users/lorenzorinaldi/Library/CloudStorage/OneDrive-SharedLibraries-PolitecnicodiMilano/DENG-SESAM - Documenti/c-Research/a-Datasets/_Input Output Databases/EORA/EORA1/Eora26_{year}_bp'
-  EMERGING_1.0: '/Users/lorenzorinaldi/Library/CloudStorage/OneDrive-SharedLibraries-PolitecnicodiMilano/DENG-SESAM - Documenti/c-Research/a-Datasets/_Input Output Databases/EMERGING/1.0/global_mrio_{year}.mat'
-  EMERGING_2.2: '/Users/lorenzorinaldi/Library/CloudStorage/OneDrive-SharedLibraries-PolitecnicodiMilano/DENG-SESAM - Documenti/c-Research/a-Datasets/_Input Output Databases/EMERGING/2.2/EMERGING_V2_{year}_m.mat'
+  EXIOBASE: '/Users/lorenzorinaldi/Library/CloudStorage/OneDrive-SharedLibraries-PolitecnicodiMilano/DENG-SESAM - Documenti/c-Research/a-Datasets/_Input Output Databases/EXIOBASE/{version}/{table}_{year}_{system}.zip'
+  EORA26: '/Users/lorenzorinaldi/Library/CloudStorage/OneDrive-SharedLibraries-PolitecnicodiMilano/DENG-SESAM - Documenti/c-Research/a-Datasets/_Input Output Databases/EORA/EORA1/Eora26/Eora26_{year}_bp'
+  EMERGING: '/Users/lorenzorinaldi/Library/CloudStorage/OneDrive-SharedLibraries-PolitecnicodiMilano/DENG-SESAM - Documenti/c-Research/a-Datasets/_Input Output Databases/EMERGING/2.2/EMERGING_V2_{year}_m.mat'
   GLORIA: '/Users/lorenzorinaldi/Library/CloudStorage/OneDrive-SharedLibraries-PolitecnicodiMilano/DENG-SESAM - Documenti/c-Research/a-Datasets/_Input Output Databases/GLORIA'
   GTAP: '/Users/lorenzorinaldi/Library/CloudStorage/OneDrive-SharedLibraries-PolitecnicodiMilano/DENG-SESAM - Documenti/c-Research/a-Datasets/_Input Output Databases/GTAP/{version}/{year}'
+  FIGARO: '/Users/lorenzorinaldi/Library/CloudStorage/OneDrive-SharedLibraries-PolitecnicodiMilano/DENG-SESAM - Documenti/c-Research/a-Datasets/_Input Output Databases/FIGARO/{table}/{year}'
+  OECD-ICIO: '/Users/lorenzorinaldi/Library/CloudStorage/OneDrive-SharedLibraries-PolitecnicodiMilano/DENG-SESAM - Documenti/c-Research/a-Datasets/_Input Output Databases/OECD - ICIO/ICIO/Regular/{year}_SML.csv'
+  ADB: '/Users/lorenzorinaldi/Library/CloudStorage/OneDrive-SharedLibraries-PolitecnicodiMilano/DENG-SESAM - Documenti/c-Research/a-Datasets/_Input Output Databases/ADB/{version}'
 
-
-export_dir: 'emission factors/input-output tables/monetary'
-  
 
 

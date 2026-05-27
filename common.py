@@ -141,3 +141,200 @@ def export_efs(efs, name, table, version, year, system=None, suffix=''):
     efs.to_csv(out, index=False)
     print(f'-> exported {out}')
     return out
+
+
+# ---------------------------------------------------------------- region trades
+def parse_region_parquet_name(path):
+    """Return metadata parsed from a <...>_region parquet directory name."""
+    parts = Path(path).name.split('_')
+    if len(parts) == 5 and parts[-1] == 'region':
+        name, version, table, year, _ = parts
+        system = None
+    elif len(parts) == 6 and parts[-1] == 'region':
+        name, version, table, system, year, _ = parts
+    else:
+        return None
+
+    return {
+        'Name': name,
+        'Version': version,
+        'Table': table,
+        'System': system,
+        'Year': int(year),
+        'Path': Path(path),
+    }
+
+
+def iter_region_parquet_dirs(databases_dir=None):
+    """Yield metadata for all <...>_region parquet directories in databases/."""
+    root = ROOT / 'databases' if databases_dir is None else Path(databases_dir)
+    for path in sorted(root.iterdir()):
+        if not path.is_dir() or not path.name.endswith('_region'):
+            continue
+        metadata = parse_region_parquet_name(path)
+        if metadata is not None:
+            yield metadata
+
+
+def _find_column(columns, *candidates):
+    normalized = {
+        str(column).strip().lower().replace('_', ' '): column
+        for column in columns
+    }
+    for candidate in candidates:
+        match = normalized.get(candidate)
+        if match is not None:
+            return match
+    return None
+
+
+def _resolve_trade_unit(db, trades):
+    unit_col = _find_column(getattr(trades, 'columns', []), 'unit', 'units')
+    if unit_col is not None:
+        units = trades[unit_col].dropna().astype(str).unique()
+        if len(units) == 1:
+            return units[0]
+
+    units = getattr(db, 'units', None)
+    if not isinstance(units, dict):
+        return 'UNKNOWN'
+
+    candidates = []
+    for value in units.values():
+        series = _unit_series(value)
+        unique_units = pd.Series(series).dropna().astype(str).unique()
+        if len(unique_units) == 1:
+            candidates.append(unique_units[0])
+
+    return candidates[0] if len(set(candidates)) == 1 else 'UNKNOWN'
+
+
+def normalize_region_trades(trades, default_unit='UNKNOWN'):
+    """Convert ``db.calc_trades()`` output to a standard long-form table."""
+    if isinstance(trades, pd.Series):
+        frame = trades.rename('Value').reset_index()
+        if frame.shape[1] >= 3:
+            renamed = frame.rename(columns={frame.columns[0]: 'Origin region',
+                                            frame.columns[1]: 'Destination region'})
+            renamed['Unit'] = default_unit
+            return renamed[['Origin region', 'Destination region', 'Unit', 'Value']]
+
+    if not isinstance(trades, pd.DataFrame):
+        raise TypeError(f'Unsupported trades type: {type(trades).__name__}')
+
+    origin_col = _find_column(
+        trades.columns,
+        'origin region', 'origin', 'source region', 'from region', 'exporter',
+    )
+    destination_col = _find_column(
+        trades.columns,
+        'destination region', 'destination', 'target region', 'to region', 'importer',
+    )
+    unit_col = _find_column(trades.columns, 'unit', 'units')
+    value_col = _find_column(trades.columns, 'value', 'trade', 'trades', 'amount', 'flow')
+
+    if origin_col is not None and destination_col is not None and value_col is not None:
+        frame = trades.copy()
+        if unit_col is None:
+            frame['Unit'] = default_unit
+            unit_col = 'Unit'
+        renamed = frame.rename(columns={
+            origin_col: 'Origin region',
+            destination_col: 'Destination region',
+            unit_col: 'Unit',
+            value_col: 'Value',
+        })
+        return renamed[['Origin region', 'Destination region', 'Unit', 'Value']]
+
+    frame = trades.copy()
+
+    if isinstance(frame.index, pd.MultiIndex):
+        index_names = [name or f'Origin region {i + 1}' for i, name in enumerate(frame.index.names)]
+        frame.index = frame.index.rename(index_names)
+    else:
+        frame.index = frame.index.rename('Origin region')
+
+    if isinstance(frame.columns, pd.MultiIndex):
+        column_names = [
+            name or f'Destination region {i + 1}'
+            for i, name in enumerate(frame.columns.names)
+        ]
+        frame.columns = frame.columns.rename(column_names)
+    else:
+        frame.columns = frame.columns.rename('Destination region')
+
+    stacked = frame.stack().rename('Value').reset_index()
+    if stacked.shape[1] < 3:
+        raise ValueError('Could not normalize calc_trades() output')
+
+    origin_col = _find_column(stacked.columns, 'origin region', 'origin region 1')
+    destination_col = _find_column(
+        stacked.columns,
+        'destination region', 'destination region 1',
+    )
+    if origin_col is None or destination_col is None:
+        origin_col, destination_col = stacked.columns[:2]
+
+    renamed = stacked.rename(columns={
+        origin_col: 'Origin region',
+        destination_col: 'Destination region',
+    })
+    renamed['Unit'] = default_unit
+    return renamed[['Origin region', 'Destination region', 'Unit', 'Value']]
+
+
+def _get_parse_from_parquet(mario_module):
+    parser = getattr(mario_module, 'parse_from_parquet', None)
+    if parser is not None:
+        return parser
+
+    database = getattr(mario_module, 'Database', None)
+    if database is not None:
+        parser = getattr(database, 'parse_from_parquet', None)
+        if parser is not None:
+            return parser
+
+    raise AttributeError('parse_from_parquet is not available in the current mario installation')
+
+
+def export_region_trades(mario_module, databases_dir=None, output_path=None):
+    """Read all <...>_region parquet databases, calculate total trades, export one CSV."""
+    cfg, _ = load_config()
+    out = ROOT / cfg.get('export_dir', 'export') / 'region_total_trades.csv'
+    if output_path is not None:
+        out = Path(output_path)
+
+    parser = _get_parse_from_parquet(mario_module)
+    frames = []
+
+    for metadata in iter_region_parquet_dirs(databases_dir):
+        print(f"\\n=== {metadata['Path'].name} ===")
+        db = parser(
+            path=str(metadata['Path'] / 'flows'),
+            table=metadata['Table'],
+            mode='flows',
+        )
+        trades = db.calc_trades()
+        trade_table = normalize_region_trades(
+            trades,
+            default_unit=_resolve_trade_unit(db, trades),
+        )
+        trade_table.insert(0, 'Year', metadata['Year'])
+        trade_table.insert(0, 'System', metadata['System'] or '')
+        trade_table.insert(0, 'Table', metadata['Table'])
+        trade_table.insert(0, 'Version', metadata['Version'])
+        trade_table.insert(0, 'Name', metadata['Name'])
+        frames.append(trade_table)
+
+    columns = [
+        'Name', 'Version', 'Table', 'System', 'Year',
+        'Origin region', 'Destination region', 'Unit', 'Value',
+    ]
+    result = pd.concat(frames, ignore_index=True) if frames else pd.DataFrame(columns=columns)
+    if not result.empty:
+        result = result[columns]
+
+    out.parent.mkdir(parents=True, exist_ok=True)
+    result.to_csv(out, index=False)
+    print(f'-> exported {out}')
+    return result, out
