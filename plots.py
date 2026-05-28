@@ -6,6 +6,7 @@ import matplotlib.lines as mlines
 import matplotlib.font_manager as fm
 from pathlib import Path
 from datetime import date
+from math import ceil, sqrt
 
 try:
     import country_converter as coco
@@ -55,6 +56,35 @@ SOURCE_LABEL_ALIASES = {
     "GLORA 0.6 act": "GLORIA 0.6 act",
     "GLORA 0.6 com": "GLORIA 0.6 com",
 }
+
+
+# MARIO qualitative palette from mario/views/plot_specs.py.
+MARIO_PLOT_PALETTE = [
+    "#3F8EFC",
+    "#BF9FC2",
+    "#79C2D6",
+    "#67BA6F",
+    "#D96940",
+    "#F8D35E",
+    "#02429B",
+    "#69456C",
+    "#276D80",
+    "#2D6332",
+    "#753017",
+    "#A47E07",
+    "#8CBBFD",
+    "#D9C5DA",
+    "#AFDAE6",
+    "#A4D6A9",
+    "#E8A58C",
+    "#FBE59E",
+    "#D9E8FE",
+    "#F2ECF3",
+    "#E4F3F7",
+    "#E1F1E2",
+    "#F7E1D9",
+    "#FEF6DF",
+]
 
 
 def load_inter_font(font_dir: str = "."):
@@ -411,12 +441,13 @@ ROW_PATTERNS = (
 
 
 def _database_key(df: pd.DataFrame) -> pd.Series:
+    name = df['Name'].astype(str).str.strip()
+    version = df['Version'].astype(str).str.strip()
+    gloria_mask = name.str.casefold().eq('gloria')
+    version.loc[gloria_mask] = '0.60'
+
     system = df.get('System', pd.Series('', index=df.index)).fillna('').astype(str).str.strip()
-    base = (
-        df['Name'].astype(str).str.strip()
-        + ' '
-        + df['Version'].astype(str).str.strip()
-    )
+    base = name + ' ' + version
     has_system = system.ne('')
     base.loc[has_system] = base.loc[has_system] + ' ' + system.loc[has_system]
     return base
@@ -426,6 +457,8 @@ def _database_family_key(df: pd.DataFrame) -> pd.Series:
     if {'Name', 'Version'}.issubset(df.columns):
         version = df['Version'].fillna('').astype(str).str.strip()
         base = df['Name'].fillna('').astype(str).str.strip()
+        gloria_mask = base.str.casefold().eq('gloria')
+        version.loc[gloria_mask] = '0.60'
         has_version = version.ne('')
         base.loc[has_version] = base.loc[has_version] + ' ' + version.loc[has_version]
         return base.str.strip()
@@ -481,6 +514,40 @@ def _resolve_trade_regions(regions: list[str], available_iso3) -> list[str]:
     return resolved
 
 
+def _resolve_subplot_grid_shape(
+    n_items: int,
+    n_rows: int | None = None,
+    n_cols: int | None = None,
+) -> tuple[int, int]:
+    if n_items <= 0:
+        raise ValueError('n_items must be positive')
+
+    if n_rows is not None:
+        n_rows = int(n_rows)
+        if n_rows <= 0:
+            raise ValueError('n_rows must be positive')
+    if n_cols is not None:
+        n_cols = int(n_cols)
+        if n_cols <= 0:
+            raise ValueError('n_cols must be positive')
+
+    if n_rows is None and n_cols is None:
+        n_cols = int(ceil(sqrt(n_items)))
+        n_rows = int(ceil(n_items / n_cols))
+    elif n_rows is None:
+        n_rows = int(ceil(n_items / n_cols))
+    elif n_cols is None:
+        n_cols = int(ceil(n_items / n_rows))
+
+    if n_rows * n_cols < n_items:
+        raise ValueError(
+            f'Grid {n_rows}x{n_cols} cannot contain {n_items} subplots. '
+            'Increase n_rows or n_cols.'
+        )
+
+    return n_rows, n_cols
+
+
 def _is_row(series: pd.Series) -> pd.Series:
     lowered = series.fillna('').astype(str).str.strip().str.casefold()
     mask = pd.Series(False, index=series.index)
@@ -497,11 +564,45 @@ def _to_iso3(series: pd.Series) -> pd.Series:
     upper = values.str.upper()
 
     legacy_iso3 = {
+        'ANT': None,   # Netherlands Antilles legacy aggregate
+        'BAN': 'BGD',  # Bangladesh shorthand
+        'BHU': 'BTN',  # Bhutan shorthand
+        'BRU': 'BRN',  # Brunei shorthand
+        'CAM': 'KHM',  # Cambodia shorthand
+        'DEN': 'DNK',  # Denmark shorthand
+        'FIJ': 'FJI',  # Fiji shorthand
+        'GER': 'DEU',  # Germany shorthand
+        'INO': 'IDN',  # Indonesia shorthand
+        'IRE': 'IRL',  # Ireland shorthand
+        'MAL': 'MYS',  # Malaysia shorthand
+        'MLD': 'MDV',  # Maldives shorthand
+        'MON': 'MNG',  # Mongolia shorthand
+        'NEP': 'NPL',  # Nepal shorthand
+        'NET': 'NLD',  # Netherlands shorthand
+        'PHI': 'PHL',  # Philippines shorthand
+        'POR': 'PRT',  # Portugal shorthand
+        'PRC': 'CHN',  # People's Republic of China shorthand
         'TMP': 'TLS',  # Timor-Leste legacy code
         'ROM': 'ROU',  # Romania legacy code
+        'ROW': None,   # Rest of world marker
+        'RoW': None,   # Rest of world marker
+        'SDS': 'SSD',  # South Sudan shorthand
         'ZAR': 'COD',  # DR Congo legacy code
         'YUG': 'SRB',  # Yugoslavia -> Serbia proxy
         'SER': 'SRB',  # Serbia and Montenegro legacy shorthand
+        'SIN': 'SGP',  # Singapore shorthand
+        'SPA': 'ESP',  # Spain shorthand
+        'SRI': 'LKA',  # Sri Lanka shorthand
+        'SUD': 'SDN',  # Sudan shorthand
+        'SWI': 'CHE',  # Switzerland shorthand
+        'TAP': 'TWN',  # Chinese Taipei shorthand
+        'UKG': 'GBR',  # United Kingdom shorthand
+        'USR': 'RUS',  # USSR/Russia legacy shorthand
+        'VIE': 'VNM',  # Vietnam shorthand
+        'WA': None,    # EXIO aggregate code
+        'WE': None,    # EXIO aggregate code
+        'WL': None,    # EXIO aggregate code
+        'WM': None,    # EXIO aggregate code
     }
 
     # Keep already-standard ISO3 codes, then map known legacy aliases.
@@ -510,7 +611,7 @@ def _to_iso3(series: pd.Series) -> pd.Series:
     iso3.loc[looks_iso3] = upper.loc[looks_iso3]
     iso3 = iso3.replace(legacy_iso3)
 
-    unresolved = iso3.isna() & values.ne('')
+    unresolved = iso3.isna() & values.ne('') & ~upper.isin(legacy_iso3.keys())
     if unresolved.any():
         converted = coco.convert(names=values.loc[unresolved].tolist(), to='ISO3', not_found=None)
         iso3.loc[unresolved] = pd.Series(converted, index=values.loc[unresolved].index, dtype='object')
@@ -696,6 +797,40 @@ def prepare_trade_comparison_dataframe(
         year=df['Year'],
         target_currency=target_currency,
         eur_usd_by_year=eur_usd_by_year,
+    )
+    df = df[df['Value'].notna()].copy()
+    return df
+
+
+def prepare_gdp_comparison_dataframe(
+    gdp: pd.DataFrame,
+    target_currency: str = 'USD',
+    eur_usd_by_year=None,
+    drop_unknown_iso3: bool = True,
+) -> pd.DataFrame:
+    """Standardize GDP table for cross-database country comparison."""
+    df = gdp.copy()
+    required = ['Name', 'Version', 'System', 'Year', 'Region', 'Unit', 'Value']
+    missing = [col for col in required if col not in df.columns]
+    if missing:
+        raise ValueError(f'Missing required columns: {missing}')
+
+    df['Database'] = _database_key(df)
+
+    row_mask = _is_row(df['Region'])
+    df = df.loc[~row_mask].copy()
+
+    df['Region ISO3'] = _to_iso3(df['Region'])
+    if drop_unknown_iso3:
+        df = df[df['Region ISO3'].notna()].copy()
+
+    fx_rates = DEFAULT_EURUSD_BY_YEAR if eur_usd_by_year is None else eur_usd_by_year
+    df['Value'], df['Unit'] = _convert_currency(
+        value=df['Value'],
+        unit=df['Unit'],
+        year=df['Year'],
+        target_currency=target_currency,
+        eur_usd_by_year=fx_rates,
     )
     df = df[df['Value'].notna()].copy()
     return df
@@ -1102,20 +1237,8 @@ def export_trade_region_grid_html(
         .tolist()
     )
 
-    palette = [
-        '#264653',
-        '#E76F51',
-        '#2A9D8F',
-        '#E9C46A',
-        '#457B9D',
-        '#A8DADC',
-        '#D62828',
-        '#6D597A',
-        '#F4A261',
-        '#4D908E',
-    ]
     color_map = {
-        family: palette[idx % len(palette)]
+        family: MARIO_PLOT_PALETTE[idx % len(MARIO_PLOT_PALETTE)]
         for idx, family in enumerate(family_order)
     }
 
@@ -1284,15 +1407,298 @@ def export_trade_region_grid_html(
             'groupclick': 'togglegroup',
         },
     )
-    fig.add_annotation(
-        x=-0.065,
-        y=0.5,
-        xref='paper',
-        yref='paper',
-        text='% deviation from annual mean',
-        textangle=-90,
-        showarrow=False,
-        font={'size': 13},
+    output = Path(output_path)
+    output.parent.mkdir(parents=True, exist_ok=True)
+    fig.write_html(str(output), include_plotlyjs='cdn', full_html=True)
+    return output
+
+
+def export_gdp_region_grid_html(
+    gdp: pd.DataFrame,
+    regions: list[str],
+    output_path: str | Path = 'plots/gdp_region_grid.html',
+    title_prefix: str = 'GDP by database',
+    title: str | None = None,
+    years: list[int] | None = None,
+    n_rows: int | None = None,
+    n_cols: int | None = None,
+    target_currency: str = 'USD',
+    eur_usd_by_year=None,
+    round_decimals: int = 3,
+):
+    """Export a GDP comparison grid with one subplot per region.
+
+    Each subplot corresponds to one country/region, ordered alphabetically.
+    The y-axis shows percent variation from the annual cross-database mean
+    for that region, while x is the year.
+    """
+    if go is None or make_subplots is None:
+        raise ImportError('plotly is required. Install with: pip install plotly')
+
+    prepared_columns = {'Database', 'Region ISO3', 'Year', 'Value', 'Unit'}
+    if prepared_columns.issubset(gdp.columns):
+        base = gdp.copy()
+    else:
+        base = prepare_gdp_comparison_dataframe(
+            gdp=gdp,
+            target_currency=target_currency,
+            eur_usd_by_year=eur_usd_by_year,
+        )
+
+    base['Database detail'] = base['Database'].fillna('').astype(str).str.strip()
+    base['Database family'] = _database_family_key(base)
+    base = (
+        base.groupby(
+            ['Database family', 'Database detail', 'Region ISO3', 'Year', 'Unit'],
+            as_index=False,
+        )['Value']
+        .sum()
+    )
+
+    if base.empty:
+        raise ValueError('No GDP data available to build region grid dashboard')
+
+    base['Year'] = pd.to_numeric(base['Year'], errors='coerce').astype('Int64')
+    base = base[base['Year'].notna()].copy()
+    base['Year'] = base['Year'].astype(int)
+
+    if years is not None:
+        keep_years = {int(y) for y in years}
+        base = base[base['Year'].isin(keep_years)].copy()
+
+    if round_decimals is not None:
+        base['Value'] = pd.to_numeric(base['Value'], errors='coerce').round(int(round_decimals))
+        base = base[base['Value'].notna()].copy()
+
+    base = base[
+        base['Database family'].notna()
+        & base['Database family'].astype(str).str.strip().ne('')
+        & base['Database detail'].notna()
+        & base['Database detail'].astype(str).str.strip().ne('')
+        & base['Region ISO3'].notna()
+        & base['Region ISO3'].astype(str).str.strip().ne('')
+    ].copy()
+    if base.empty:
+        raise ValueError('No valid GDP records remain after cleaning')
+
+    region_codes = sorted(_resolve_trade_regions(regions, base['Region ISO3'].dropna().unique()))
+    base = base[base['Region ISO3'].isin(region_codes)].copy()
+    if base.empty:
+        raise ValueError('No GDP records remain for the selected regions')
+
+    year_values = sorted(base['Year'].dropna().astype(int).unique().tolist())
+    if not year_values:
+        raise ValueError('No valid years remain for the selected regions')
+
+    annual_mean = (
+        base.groupby(['Region ISO3', 'Year'], as_index=False)['Value']
+        .mean()
+        .rename(columns={'Value': 'Annual mean value'})
+    )
+    base = base.merge(
+        annual_mean,
+        on=['Region ISO3', 'Year'],
+        how='left',
+    )
+    base = base[base['Annual mean value'].abs() > 1e-12].copy()
+    if base.empty:
+        raise ValueError('Annual GDP mean is zero for all selected region/year combinations')
+
+    base['Deviation pct'] = (
+        100.0 * (base['Value'] - base['Annual mean value']) / base['Annual mean value']
+    )
+    base = base[base['Deviation pct'].notna()].copy()
+    if base.empty:
+        raise ValueError('No valid GDP percent deviations could be computed for the selected regions')
+
+    family_order = (
+        base[['Database family']]
+        .drop_duplicates()
+        .sort_values('Database family')['Database family']
+        .tolist()
+    )
+    color_map = {
+        family: MARIO_PLOT_PALETTE[idx % len(MARIO_PLOT_PALETTE)]
+        for idx, family in enumerate(family_order)
+    }
+
+    lookup = {
+        key: group.sort_values('Database detail').reset_index(drop=True)
+        for key, group in base.groupby(['Region ISO3', 'Database family'], sort=False)
+    }
+
+    y_min = float(base['Deviation pct'].min())
+    y_max = float(base['Deviation pct'].max())
+    if y_min == y_max:
+        delta = max(abs(y_min) * 0.01, 1e-6)
+        global_y_range = [y_min - delta, y_max + delta]
+    else:
+        global_y_range = [y_min, y_max]
+
+    def _build_trace(region: str, family: str):
+        subset = lookup.get((region, family))
+        if subset is None or subset.empty:
+            x_vals = []
+            y_vals = []
+            custom = []
+        else:
+            subset = subset.sort_values(['Year', 'Database detail']).reset_index(drop=True)
+            x_vals = subset['Year'].astype(int).tolist()
+            y_vals = subset['Deviation pct'].astype(float).tolist()
+            custom = [
+                [
+                    db,
+                    family,
+                    unit,
+                    region,
+                    int(year_value),
+                    float(value),
+                    float(mean_value),
+                ]
+                for db, unit, year_value, value, mean_value in zip(
+                    subset['Database detail'],
+                    subset['Unit'],
+                    subset['Year'],
+                    subset['Value'],
+                    subset['Annual mean value'],
+                )
+            ]
+
+        return go.Scatter(
+            x=x_vals,
+            y=y_vals,
+            mode='markers',
+            marker={
+                'size': 10,
+                'color': color_map[family],
+                'line': {'width': 0.7, 'color': 'white'},
+            },
+            name=family,
+            legendgroup=family,
+            showlegend=False,
+            customdata=custom,
+            hovertemplate=(
+                'Region=%{customdata[3]}<br>'
+                'Database=%{customdata[1]}<br>'
+                'Series=%{customdata[0]}<br>'
+                'Year=%{customdata[4]}<br>'
+                'Deviation=%{y:.2f}%<br>'
+                'GDP=%{customdata[5]:.3f} %{customdata[2]}<br>'
+                'Annual mean=%{customdata[6]:.3f} %{customdata[2]}'
+                '<extra></extra>'
+            ),
+        )
+
+    n_regions = len(region_codes)
+    n_rows, n_cols = _resolve_subplot_grid_shape(n_regions, n_rows=n_rows, n_cols=n_cols)
+    total_slots = n_rows * n_cols
+    subplot_titles = region_codes + [''] * (total_slots - n_regions)
+
+    fig = make_subplots(
+        rows=n_rows,
+        cols=n_cols,
+        shared_xaxes=False,
+        shared_yaxes=False,
+        horizontal_spacing=0.04 if n_cols <= 4 else 0.025,
+        vertical_spacing=0.06 if n_rows <= 4 else 0.04,
+        subplot_titles=subplot_titles,
+    )
+
+    slots = [
+        (row_idx, col_idx)
+        for row_idx in range(1, n_rows + 1)
+        for col_idx in range(1, n_cols + 1)
+    ]
+    used_slots = slots[:n_regions]
+    last_filled_row_by_col = {
+        col_idx: max(row for row, col in used_slots if col == col_idx)
+        for col_idx in range(1, n_cols + 1)
+        if any(col == col_idx for _, col in used_slots)
+    }
+
+    for region, (row_idx, col_idx) in zip(region_codes, used_slots):
+        for family in family_order:
+            fig.add_trace(
+                _build_trace(region, family),
+                row=row_idx,
+                col=col_idx,
+            )
+
+        fig.update_xaxes(
+            showticklabels=(row_idx == last_filled_row_by_col.get(col_idx)),
+            showgrid=True,
+            gridcolor='rgba(0, 0, 0, 0.06)',
+            zeroline=False,
+            title_text='',
+            showline=True,
+            linecolor='rgba(0, 0, 0, 0.24)',
+            linewidth=1.0,
+            mirror=True,
+            tickmode='array',
+            tickvals=year_values,
+            tickangle=-90 if row_idx == last_filled_row_by_col.get(col_idx) else 0,
+            range=[min(year_values) - 0.5, max(year_values) + 0.5],
+            row=row_idx,
+            col=col_idx,
+        )
+        fig.update_yaxes(
+            title_text='',
+            showticklabels=(col_idx == 1),
+            showgrid=True,
+            gridcolor='rgba(0, 0, 0, 0.08)',
+            zeroline=True,
+            zerolinecolor='rgba(0, 0, 0, 0.28)',
+            zerolinewidth=1.0,
+            showline=True,
+            linecolor='rgba(0, 0, 0, 0.24)',
+            linewidth=1.0,
+            mirror=True,
+            ticksuffix='%',
+            range=global_y_range,
+            row=row_idx,
+            col=col_idx,
+        )
+
+    for row_idx, col_idx in slots[n_regions:]:
+        fig.update_xaxes(visible=False, row=row_idx, col=col_idx)
+        fig.update_yaxes(visible=False, row=row_idx, col=col_idx)
+
+    for family in family_order:
+        fig.add_trace(
+            go.Scatter(
+                x=[None],
+                y=[None],
+                mode='markers',
+                marker={
+                    'size': 10,
+                    'color': color_map[family],
+                    'line': {'width': 0.7, 'color': 'white'},
+                },
+                name=family,
+                legendgroup=family,
+                showlegend=True,
+                hoverinfo='skip',
+            ),
+            row=1,
+            col=1,
+        )
+
+    fig.update_layout(
+        title=title or (
+            f'{title_prefix} | y = % variation from annual mean'
+        ),
+        template='plotly_white',
+        height=max(170 * n_rows + 100, 420),
+        margin={'t': 110, 'r': 170, 'b': 70, 'l': 80},
+        legend={
+            'title': {'text': ''},
+            'orientation': 'v',
+            'x': 1.02,
+            'xanchor': 'left',
+            'y': 1.0,
+            'yanchor': 'top',
+            'groupclick': 'togglegroup',
+        },
     )
     output = Path(output_path)
     output.parent.mkdir(parents=True, exist_ok=True)

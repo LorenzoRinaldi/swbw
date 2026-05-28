@@ -7,8 +7,8 @@ properties = {
         'name': 'EXIOBASE',
         'table': 'IOT',
         'versions': [
-            # '3.10.2',
-            '3.10.1',
+            '3.10.2',
+            # '3.10.1',
             ],
         'systems': ['ixi', 'pxp'],
         'years': range(1995,2025),

@@ -86,6 +86,33 @@ def emission_factors(db, level, labels, ghg_label='GHG', ghg_unit='kg CO2eq'):
                 'Region', level, 'Item', 'Value']]
 
 
+def matrix_nan_report(db, scenario='baseline', sample_limit=3):
+    """Return a per-matrix NaN summary for one MARIO scenario."""
+    report = {}
+    matrices = db[scenario]
+    for matrix_name, value in matrices.items():
+        if not isinstance(value, pd.DataFrame):
+            continue
+
+        nan_mask = value.isna()
+        nan_count = int(nan_mask.sum().sum())
+        entry = {
+            'shape': value.shape,
+            'nan_count': nan_count,
+            'index_names': list(value.index.names),
+            'column_names': list(value.columns.names),
+        }
+        if nan_count:
+            entry['sample_nan_rows'] = [
+                str(item) for item in value.index[nan_mask.any(axis=1)].tolist()[:sample_limit]
+            ]
+            entry['sample_nan_cols'] = [
+                str(item) for item in value.columns[nan_mask.any(axis=0)].tolist()[:sample_limit]
+            ]
+        report[matrix_name] = entry
+    return report
+
+
 # ------------------------------------------------------------------ export
 def export_path(name, table, version, year, system=None, suffix=''):
     """Return the CSV path that ``export_efs`` would write to."""
