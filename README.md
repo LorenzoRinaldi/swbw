@@ -39,7 +39,7 @@ and `plots/`.
 ```text
 README.md                  project overview
 run.ipynb                  main notebook; all workflows are orchestrated here
-common.py                  path resolution, data reshaping, trade export helpers
+common.py                  path resolution and export-skip helpers
 database_properties.py     configured database families, versions, years, tables
 plots.py                   harmonisation, comparison, and plotting utilities
 paths.yml                  local absolute path templates for source databases
@@ -110,8 +110,8 @@ environment rather than as a standalone package install from this repository.
 
 - `database_properties.py` controls the database families, years, versions, and
   table types iterated by the notebook.
-- `common.py` includes helpers to resolve paths and normalize exported trade
-  outputs.
+- `common.py` includes helpers to resolve dataset paths and skip outputs that
+  already exist.
 - `plots.py` contains the currency conversion, ISO3 harmonisation, and plotting
   code used by the comparison dashboards.
 - `common.py` still supports the older `shared` + `user` layout in `paths.yml`,
