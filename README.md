@@ -1,98 +1,125 @@
-# Electricity carbon footprint
+# SWBW: Should We Be Worried About the Quality of Our Economic Accounts Data?
 
-This repository accompanies the manuscript currently under review at the
-Journal of Industrial Ecology, "Carbon footprint of electricity: a systematic
-methodological and quantitative review". It collects the workflow used to
-calculate and compare electricity carbon footprint indicators across multiple
-input-output databases with a single, reproducible pipeline.
+SWBW is a notebook-driven workspace for comparing multiple MRIO databases and
+asking a practical question: how consistent are their economic accounts once
+you line them up on the same regions, years, currencies, and indicators?
 
-The implementation is a streamlined rework of the exploratory `review/`
-scripts. A single notebook orchestrates the runs, configuration is kept in
-`paths.yml` and `database_properties.py`, and greenhouse-gas aggregation is
-delegated to MARIO through `Database.calc_ghg`.
+The repository combines lightweight Python helpers, a single orchestration
+notebook, and precomputed parquet datasets under `databases/`. Its focus is on
+harmonising and comparing trade and GDP estimates across MRIO sources, then
+surfacing the differences through flat tables and interactive dashboards.
 
-## What this repository does
+## Scope
 
-The workflow computes electricity-related GHG intensity and footprint results
-for the database combinations configured in `database_properties.py`, including:
+The codebase supports a cross-database comparison workflow for economic
+accounts. In practice, the notebook can:
 
-- EXIOBASE monetary IOT releases (`ixi` and `pxp` systems)
-- EXIOBASE hybrid results (`3.3.18_shocked`)
+- reload region-level MRIO datasets,
+- compute total trade flows and GDP,
+- harmonise country codes and currencies,
+- export comparison tables,
+- generate interactive HTML views for inspection.
+
+The currently configured database families are:
+
+- EXIOBASE
 - EORA26
+- FIGARO
+- OECD-ICIO
+- ADB
 - EMERGING
-- GTAP
 - GLORIA
 
-Each run exports long-form CSV files, which are then converted from monetary
-units to `g/kWh` using country-year electricity prices and merged with
-additional non-IO sources into a single physical comparison table.
+The current repository contents and generated outputs are centered on the trade
+and GDP comparison side of this workflow, especially in `results/`, `support/`,
+and `plots/`.
 
 ## Repository layout
 
+```text
+README.md                  project overview
+run.ipynb                  main notebook; all workflows are orchestrated here
+common.py                  path resolution, data reshaping, trade export helpers
+database_properties.py     configured database families, versions, years, tables
+plots.py                   harmonisation, comparison, and plotting utilities
+paths.yml                  local absolute path templates for source databases
+
+databases/                 local parquet datasets used for trade and GDP comparisons
+other_data/                external raw trade data used for comparison work
+results/                   generated flat outputs such as trades.csv and GDP.csv
+support/                   harmonised intermediate outputs such as trades_comparison.csv
+plots/                     generated HTML dashboards and other visual outputs
 ```
-common.py                         path resolution, GHG reshaping, CSV export helpers
-database_properties.py            database versions, years, systems, GWP factors, labels
-paths.yml                         full local path templates for each database
-plots.py                          plotting helpers for Figure 2
-README.md                         project overview and usage notes
-run.ipynb                         main execution notebook, one section per database
-emission factors/                 physical comparison inputs and merged outputs
-	input-output tables/            exported IO-based emissions tables used in the physical conversion step
-	other sources.xlsx              non-IO comparison sources appended in the notebook
-	physical_efs.csv                merged physical comparison table in g/kWh
-plots/                            generated figure outputs
-	figures/                        exported SVG/JPG/TIFF versions of Figure 2
-support/                          auxiliary spreadsheets used by parsing and plotting
-	EXIOBASE_ixi_aggregation.xlsx   EXIOBASE ixi aggregation mapping
-	EXIOBASE_pxp_aggregation.xlsx   EXIOBASE pxp aggregation mapping
-	Electricity_Prices.xlsx         country-year electricity prices used for unit conversion
-```
+
+## Main outputs
+
+Depending on which notebook sections you run, the repository generates:
+
+- `results/trades.csv`, a combined table of inter-regional trade totals,
+- `results/GDP.csv`, a combined table of GDP by region and database,
+- `support/trades_comparison.csv`, a harmonised trade-comparison table with ISO3
+  codes and currency normalization,
+- interactive HTML dashboards such as `plots/trade_dashboard.html` and
+  `plots/gdp_region_grid.html`.
+
+Large generated CSV artifacts are tracked with Git LFS.
 
 ## Requirements
 
-- Python environment with the dependencies used by the notebook and helper scripts
-- A local MARIO installation with `Database.calc_ghg` available
-- Access to local copies of the input-output databases referenced in `paths.yml`
-- Plotting dependencies used in the notebook, including `matplotlib`
-- Optional exchange-rate and country-code helpers used in the physical-unit conversion step (`forex_python`, `country_converter`)
+To reproduce the workflows, you need:
 
-## How to use it
+- a Python environment with the notebook dependencies used here,
+- a local MARIO installation for loading MRIO datasets and computing database
+  summaries such as trade totals and GDP,
+- access to the proprietary or locally stored MRIO sources referenced in
+  `paths.yml`,
+- plotting dependencies such as `matplotlib` and `plotly`,
+- optional helpers for country-code and currency harmonisation:
+  `country_converter` and `forex_python`.
 
-1. Configure your data paths in `paths.yml`.
-	Each database entry is a full local path template. Update those paths so they point to your own copies of EXIOBASE, EORA26, EMERGING, and GLORIA.
+In practice, the notebook has been run from a dedicated MARIO-oriented Python
+environment rather than as a standalone package install from this repository.
 
-	This is intentionally explicit: the repository no longer relies on a separate `shared` root plus user initials to reconstruct the full paths.
+## How to use the repository
 
-2. Prepare the Python environment.
-	Activate the environment you use for MARIO and make sure the MARIO version you are running exposes `Database.calc_ghg`.
+1. Update `paths.yml`.
 
-3. Open `run.ipynb`.
-	The notebook is the main entry point. Each section loads one database, computes the aggregated GHG indicator, filters the electricity activities or commodities of interest, and exports a CSV to `export/`.
+   The file contains absolute local path templates for raw databases such as
+   EXIOBASE, EORA26, EMERGING, GLORIA, FIGARO, OECD-ICIO, and ADB. Replace them
+   with paths valid on your machine.
 
-4. Run only the database sections you need.
-	The available versions, years, systems, GWP factors, and electricity labels are defined in `database_properties.py`.
+2. Open `run.ipynb` in the Python environment that can import MARIO.
 
-5. Convert the monetary results to physical units.
-	The notebook converts all selected monetary estimates to `g/kWh` using the electricity-price table in `support/Electricity_Prices.xlsx`, harmonises country codes, and writes the combined table to `emission factors/physical_efs.csv`.
+   The notebook is the entry point. It contains the data-loading, export,
+   harmonisation, and plotting steps.
 
-6. Generate Figure 2.
-	The plotting cell loads `physical_efs.csv`, maps each source to the plotting labels used in the manuscript, and creates the 4-panel comparison figure.
+3. Run only the sections relevant to your use case.
 
-7. Export high-resolution figures.
-	The final notebook cell saves the current figure to `plots/figures/` in `svg`, `jpg`, and `tiff` formats.
+   Typical execution paths are:
 
-## Outputs
+   - trade and GDP extraction from local `*_region` parquet datasets,
+   - creation of harmonised comparison tables,
+   - export of interactive HTML dashboards.
 
-- Per-database CSV files named from database, table, version, system, and year
-- `emission factors/physical_efs.csv`, a merged table harmonised to `g/kWh`
-- High-resolution figure exports in `plots/figures/`
+4. Inspect the generated outputs.
 
-## Adapting the repository
+   The notebook writes flat tables to `results/` and `support/`, while HTML
+   visualizations are saved under `plots/`.
 
-- To run the project on another machine, replace the absolute path templates in `paths.yml` with paths valid on that machine.
-- To change years, versions, systems, or electricity labels, edit
-	`database_properties.py`.
-- To change export behaviour or output naming, update the helpers in
-	`common.py` and `plots.py`.
+## Notes on configuration
 
-Legacy note: `common.py` still accepts the older `shared` + `user` configuration format for backwards compatibility, but the repository now uses explicit per-database paths by default.
+- `database_properties.py` controls the database families, years, versions, and
+  table types iterated by the notebook.
+- `common.py` includes helpers to resolve paths and normalize exported trade
+  outputs.
+- `plots.py` contains the currency conversion, ISO3 harmonisation, and plotting
+  code used by the comparison dashboards.
+- `common.py` still supports the older `shared` + `user` layout in `paths.yml`,
+  but this repository is currently configured with explicit absolute paths.
+
+## Reproducibility boundary
+
+This repository contains code, configuration, precomputed outputs, and some
+prepared parquet datasets, but full reproduction still depends on local access
+to the external MRIO databases referenced in `paths.yml` and on a working MARIO
+environment.
